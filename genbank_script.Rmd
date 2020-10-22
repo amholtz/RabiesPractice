@@ -1,0 +1,144 @@
+---
+title: "GeneBank"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+load.lib<-c("ggplot2","lubridate","pander","dplyr","tidyverse","stringr",
+            "shiny", "leaflet", "tidyr", "reutils", "BiocManager","ape",
+            "rentrez")
+
+
+
+
+install.lib<-load.lib[!load.lib %in% installed.packages()]
+for(lib in install.lib) install.packages(lib,dependencies=TRUE)
+sapply(load.lib,require,character=TRUE)
+
+BiocManager::install()
+BiocManager::install(c("IRanges", "Biostrings"))
+devtools::install_github("ropensci/rentrez")
+
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(lubridate)
+library(reutils)
+library(ape)
+library(rentrez)
+library(reutils)
+library(biofiles)
+library(xlsx)
+
+
+```
+
+```{r setup, include=FALSE}
+## Installing BiocManager and BiocGenerics for the R version 3.6
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+
+devtools::install_github("gschofl/biofiles")
+BiocManager::install()
+BiocManager::install("IRanges")
+BiocManager::install("Biostrings")
+
+## Preparing environment
+rm(list=ls())
+
+## Some invariant parameters-------------------------------
+# Feature terms to be retrieved
+ft_terms <- c("accession", "isolate", "host", "db_xref", "country", "collection_date", "note")
+
+# Function to retrieve the features
+features_func <- function(features_list, term) {
+  
+  out <- rep(NA, length(features_list))
+  
+  for(i in 1:length(features_list)){
+    search <- paste(term," = ", sep = "")
+    start = regexpr(search, features_list[[i]])[1] + nchar(search)
+    
+    if((start - nchar(search)) > 0){
+      str <- NA
+      str <- substr(features_list[[i]], start, nchar(features_list[[i]]))
+      str <- gsub("))", ",", str)
+      
+      end <- regexpr(",", str)[1] - 1
+      out[i] <- substr(str, 1, end)
+    }
+  }
+  
+  return(out)
+}
+```
+
+```{r setup, include=FALSE}
+## Retrieve GenBank data-----------------------------------
+
+#Define search
+#rab_search = esearch(term = "Rabies lyssavirus[ORGN] AND (Algeria OR Morocco OR Tunisia OR Ceuta OR Melilla 
+#              OR Western Sahara OR Egypt OR Sudan OR Libya)", db = "nucleotide", retmax = 1000, usehistory = TRUE)
+
+rab_search = esearch(term = "Rabies lyssavirus[ORGN] AND 11500:12000[Sequence Length]", db = "nucleotide", retmax = 3000, usehistory = TRUE)
+
+#retrieve the search from GenBank
+efetch(uid = rab_search, db="nucleotide", rettype = "gb", outfile = "rab.gb")
+
+# Convert GenBank files to gbRecord
+rab_gb <- biofiles::gbRecord("rab.gb")
+
+
+## Create the features table-------------------------------
+# Create the features list
+ft_list_raw <- getFeatures(rab_gb)
+ft_list <- vector(mode = "list", length = length(rab_gb))
+
+for (i in 1:length(rab_gb)) {
+  ft <- ft_list_raw[[i]][1]
+  ft_list[[i]] <- gsub("\"", "", ft)
+}
+# ft_list contains the features of each sequence
+
+
+# Create the frame of the features table  
+ft_table <- sapply(ft_terms, function(x,y) features_func(x, y), x=ft_list)
+ft_table <- as.data.frame(ft_table)
+
+# Suppress "taxon:" in the db_xref column
+ft_table$db_xref <- as.numeric(sub("taxon:", "", ft_table$db_xref))
+summary(ft_table$db_xref) # We have only Rabies lyssaviruses, no mistake was made
+
+# Complete the data frame with definition, sequence length and sequence version
+ft_table$length <- biofiles::getLength(rab_gb)
+ft_table$definition <- getDefinition(rab_gb)
+ft_table$version <- getVersion(rab_gb)
+
+seq <- biofiles::getSequence(rab_gb)
+
+writeXStringSet(seq, file = 'rabies.fasta')
+
+write.csv(ft_table, file = "metadata.csv")
+
+```
+
+
+
+```{r setup, include=FALSE}
+
+##Cleaning the NCBI Download. This cleans the dates and also cleans the countries
+##This has a few hundred more than using Biofiles for some reason
+
+ncbi <- read.csv("~/Documents/RabiesPractice/data/ncbi_virus.csv")
+ncbi$Collection_Date <- str_sub(ncbi$Collection_Date, start = 0, end = 4)
+ncbi$Country <- str_split_fixed(ncbi$Geo_Location, ":", 2)
+ncbi <- ncbi %>% 
+  dplyr::select(-"Authors", -"Publications", -"USA", 
+                -"Release_Date", -"Geo_Location", -"Isolation_Source") %>% 
+  dplyr::filter(!is.na(ncbi$Country)) %>% 
+  dplyr::filter(ncbi$Country !="")
+
+write.csv(ncbi, file = "ncbi_cleaned.csv")
+
+  
+```

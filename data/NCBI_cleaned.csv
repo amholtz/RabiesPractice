@@ -1,0 +1,1972 @@
+"","Accession","Species","Length","Sequence_Type","Host","Collection_Date","Country.1","Country.2"
+"1","KT336433","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","1991",Zimbabwe,
+"2","KT336434","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","1992",Zimbabwe,
+"3","KT336435","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","1993",Zimbabwe,
+"4","KX148254","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","2001",Viet Nam,
+"5","KF154996","Rabies lyssavirus",11928,"GenBank","Homo sapiens","1987",United Kingdom,
+"6","KF154999","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2008",United Kingdom,
+"7","KX148171","Rabies lyssavirus",11801,"GenBank","Canidae","1991",United Arab Emirates,
+"8","LC029889","Rabies lyssavirus",11923,"GenBank","Bos taurus","2009",Uganda,
+"9","MF143312","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2010",USA, Yates, Orleans, NY
+"10","MN418179","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Woodstock, VT
+"11","MF143327","Rabies lyssavirus",11939,"GenBank","Felis catus","2011",USA, Wolcott, Wayne, NY
+"12","MF143410","Rabies lyssavirus",11939,"GenBank","Mephitidae","2010",USA, Winooski, Chittenden, VT
+"13","MF143411","Rabies lyssavirus",11939,"GenBank","Mephitidae","2010",USA, Winooski, Chittenden, VT
+"14","MF143198","Rabies lyssavirus",11939,"GenBank","Mephitidae","2013",USA, Windham, Cumberland, ME
+"15","MF143200","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2013",USA, Windham, Cumberland, ME
+"16","MF143285","Rabies lyssavirus",11939,"GenBank","Mephitidae","2007",USA, Williston, Chittenden, VT
+"17","MF143395","Rabies lyssavirus",11939,"GenBank","Mephitidae","2009",USA, Williston, Chittenden, VT
+"18","MF143401","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2009",USA, Williston, Chittenden, VT
+"19","MF143299","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2004",USA, Williamson, Wayne, NY
+"20","MF143336","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2003",USA, Wheatfield, Niagara, NY
+"21","MF143323","Rabies lyssavirus",11939,"GenBank","Mephitidae","2010",USA, Wethersfield, Wyoming, NY
+"22","MN418160","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Weston, CT
+"23","MN418181","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2016",USA, Weston, CT
+"24","MN418144","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Westerlo, NY
+"25","MF143192","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2013",USA, Wells, York, ME
+"26","MF143258","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2004",USA, Watertown, Jefferson, NY
+"27","MF143330","Rabies lyssavirus",11939,"GenBank","Mephitidae","2011",USA, Water, Jefferson, NY
+"28","MN418184","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Washington, ME
+"29","MF143204","Rabies lyssavirus",11939,"GenBank","Mephitidae","2013",USA, Waldo, Waldo, ME
+"30","MN418175","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Vergennes, VT
+"31","MN418171","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2018",USA, Upper Saddle River, NJ
+"32","MN418168","Rabies lyssavirus",11925,"GenBank","Mephitis mephitis","2017",USA, Troy, NY
+"33","MN418153","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Tarrytown, NY
+"34","MF143384","Rabies lyssavirus",11939,"GenBank","Mephitidae","2007",USA, Swanton, Franklin, VT
+"35","MF143283","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",USA, Stowe, Lamoille, VT
+"36","MF143289","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2009",USA, Stowe, Lamoille, VT
+"37","MF143375","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2006",USA, Stowe, Lamoille, VT
+"38","MF143377","Rabies lyssavirus",11939,"GenBank","Mephitidae","2006",USA, Stowe, Lamoille, VT
+"39","MF143206","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2013",USA, Stow, Oxford, ME
+"40","MF143292","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2003",USA, Sterling, Cayuga, NY
+"41","MF143301","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2004",USA, Sterling, Cayuga, NY
+"42","MF143306","Rabies lyssavirus",11939,"GenBank","Mephitidae","2004",USA, Sterling, Cayuga, NY
+"43","MF143307","Rabies lyssavirus",11939,"GenBank","Mephitidae","2004",USA, Sterling, Cayuga, NY
+"44","MF143317","Rabies lyssavirus",11939,"GenBank","Mephitidae","2010",USA, Sterling, Cayuga, NY
+"45","MF143374","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2006",USA, St. Johnsbury, Caledonia, VT
+"46","MF143379","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",USA, St. Albans City, Franklin, VT
+"47","MF143205","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2013",USA, Southport Island, Lincoln, ME
+"48","MF143207","Rabies lyssavirus",11939,"GenBank","Urocyon cinereoargenteus","2013",USA, South Portland, Cumberland, ME
+"49","MF143393","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2009",USA, South Hero, Grand Isle, VT
+"50","MF143339","Rabies lyssavirus",11939,"GenBank","Mephitidae","2010",USA, South Burlington, Chittenden, VT
+"51","MF143376","Rabies lyssavirus",11939,"GenBank","Mephitidae","2006",USA, South Burlington, Chittenden, VT
+"52","MF143408","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2010",USA, South Burlington, Chittenden, VT
+"53","MN418161","Rabies lyssavirus",11925,"GenBank","Lontra canadensis","2017",USA, Sound Beach, NY
+"54","MF143304","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2004",USA, Sodus, Wayne, NY
+"55","MN418167","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Slate Hill, NY
+"56","MF143196","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2013",USA, Skowhegan, Somerset, ME
+"57","MF143211","Rabies lyssavirus",11939,"GenBank","Mephitidae","2013",USA, Sidney, Kennebec, ME
+"58","MF143218","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2014",USA, Sidney, Kennebec, ME
+"59","MF143313","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2010",USA, Sherman, Chautauqua, NY
+"60","MF143383","Rabies lyssavirus",11939,"GenBank","Mephitidae","2007",USA, Sheldon, Franklin, VT
+"61","MF143389","Rabies lyssavirus",11939,"GenBank","Mephitidae","2007",USA, Sheldon, Franklin, VT
+"62","MF143400","Rabies lyssavirus",11939,"GenBank","Mephitidae","2009",USA, Shelburne, Chittenden, VT
+"63","MF143396","Rabies lyssavirus",11939,"GenBank","Mephitidae","2009",USA, Sheffield, Caledonia, VT
+"64","MN418154","Rabies lyssavirus",11925,"GenBank","Felis catus","2017",USA, Sea Cliff, NY
+"65","MF143296","Rabies lyssavirus",11939,"GenBank","Mephitidae","2004",USA, Scriba, Oswego, NY
+"66","MF143212","Rabies lyssavirus",11939,"GenBank","Mephitidae","2013",USA, Scarborough, Cumberland, ME
+"67","MF143335","Rabies lyssavirus",11939,"GenBank","Urocyon cinereoargenteus","2011",USA, Sandy Creek, Oswego, NY
+"68","MF143294","Rabies lyssavirus",11939,"GenBank","Mephitidae","2003",USA, Ridgeway, Orleans, NY
+"69","MN418151","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2016",USA, Ridgefield, CT
+"70","MN418163","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2016",USA, Ridgefield, CT
+"71","MF143219","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2014",USA, Richmond, Sagadahoc, ME
+"72","MN418170","Rabies lyssavirus",11925,"GenBank","Felis catus","2017",USA, Providence, RI
+"73","MF143284","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",USA, Pownal, Bennington, VT
+"74","MF143320","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2010",USA, Porter, Niagara, NY
+"75","MN418173","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2018",USA, Plymouth, MA
+"76","MK540883","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1989",USA, Pennsylvania
+"77","MK540884","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1989",USA, Pennsylvania
+"78","MK540885","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1989",USA, Pennsylvania
+"79","MK540886","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1989",USA, Pennsylvania
+"80","MF143280","Rabies lyssavirus",11939,"GenBank","Mephitidae","2006",USA, Panton, Addison, VT
+"81","MF143319","Rabies lyssavirus",11939,"GenBank","Mephitidae","2010",USA, Oswego City, Oswego, NY
+"82","MF143305","Rabies lyssavirus",11939,"GenBank","Mephitidae","2004",USA, Oswego C., Oswego, NY
+"83","MF143315","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2010",USA, Orchard Parl, Erie, NY
+"84","MF143333","Rabies lyssavirus",11939,"GenBank","Felis catus","2011",USA, Ontario, Wayne, NY
+"85","MF143214","Rabies lyssavirus",11939,"GenBank","Mephitidae","2014",USA, Old Town, Penobscot, ME
+"86","MF143213","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2014",USA, North Yarmouth, Cumberland, ME
+"87","MF143385","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",USA, North Hero, Grand Isle, VT
+"88","MF143318","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2014",USA, Niagra, Niagara, NY
+"89","MF143300","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2004",USA, Niagara Falls, Niagara, NY
+"90","MF143302","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2004",USA, Newstead, Erie, NY
+"91","MK540658","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"92","MK540659","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"93","MK540660","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"94","MK540661","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"95","MK540662","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"96","MK540663","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"97","MK540664","Rabies lyssavirus",11923,"GenBank","Procyon lotor","1990",USA, New York
+"98","MK540665","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"99","MK540666","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"100","MK540667","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"101","MK540668","Rabies lyssavirus",11924,"GenBank","Mephitidae","1990",USA, New York
+"102","MK540669","Rabies lyssavirus",11923,"GenBank","Bos taurus","1990",USA, New York
+"103","MK540670","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"104","MK540671","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"105","MK540672","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"106","MK540673","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"107","MK540674","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"108","MK540675","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"109","MK540676","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"110","MK540677","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA, New York
+"111","MK540678","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1991",USA, New York
+"112","MK540679","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1991",USA, New York
+"113","MK540680","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1991",USA, New York
+"114","MK540681","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1991",USA, New York
+"115","MK540682","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1992",USA, New York
+"116","MK540683","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1992",USA, New York
+"117","MK540684","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1992",USA, New York
+"118","MK540685","Rabies lyssavirus",11923,"GenBank","Procyon lotor","1992",USA, New York
+"119","MK540686","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1992",USA, New York
+"120","MK540687","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1992",USA, New York
+"121","MK540688","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1993",USA, New York
+"122","MK540689","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1993",USA, New York
+"123","MK540690","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1995",USA, New York
+"124","MK540691","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2003",USA, New York
+"125","MK540692","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2003",USA, New York
+"126","MK540693","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2003",USA, New York
+"127","MK540694","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2003",USA, New York
+"128","MK540695","Rabies lyssavirus",11924,"GenBank","Mephitidae","2003",USA, New York
+"129","MK540696","Rabies lyssavirus",11923,"GenBank","Mephitidae","2004",USA, New York
+"130","MK540697","Rabies lyssavirus",11924,"GenBank","Mephitidae","2004",USA, New York
+"131","MK540698","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"132","MK540699","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"133","MK540700","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"134","MK540701","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2004",USA, New York
+"135","MK540702","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2004",USA, New York
+"136","MK540703","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"137","MK540704","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"138","MK540705","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"139","MK540706","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"140","MK540707","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"141","MK540708","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"142","MK540709","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"143","MK540710","Rabies lyssavirus",11924,"GenBank","Mephitidae","2004",USA, New York
+"144","MK540711","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"145","MK540712","Rabies lyssavirus",11925,"GenBank","Mephitidae","2004",USA, New York
+"146","MK540713","Rabies lyssavirus",11924,"GenBank","Mephitidae","2004",USA, New York
+"147","MK540714","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"148","MK540715","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2004",USA, New York
+"149","MK540716","Rabies lyssavirus",11924,"GenBank","Mephitidae","2004",USA, New York
+"150","MK540717","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2004",USA, New York
+"151","MK540718","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"152","MK540719","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"153","MK540720","Rabies lyssavirus",11924,"GenBank","Mephitidae","2004",USA, New York
+"154","MK540721","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA, New York
+"155","MK540722","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2009",USA, New York
+"156","MK540723","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2010",USA, New York
+"157","MK540724","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2010",USA, New York
+"158","MK540725","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2010",USA, New York
+"159","MK540726","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2010",USA, New York
+"160","MK540727","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2010",USA, New York
+"161","MK540728","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2010",USA, New York
+"162","MK540729","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2010",USA, New York
+"163","MK540730","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2010",USA, New York
+"164","MK540731","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2010",USA, New York
+"165","MK540732","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2010",USA, New York
+"166","MK540733","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2010",USA, New York
+"167","MK540734","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2010",USA, New York
+"168","MK540735","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2010",USA, New York
+"169","MK540736","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2010",USA, New York
+"170","MK540737","Rabies lyssavirus",11924,"GenBank","Mephitidae","2010",USA, New York
+"171","MK540738","Rabies lyssavirus",11924,"GenBank","Mephitidae","2010",USA, New York
+"172","MK540739","Rabies lyssavirus",11922,"GenBank","Procyon lotor","2010",USA, New York
+"173","MK540740","Rabies lyssavirus",11924,"GenBank","Mephitidae","2010",USA, New York
+"174","MK540741","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2010",USA, New York
+"175","MK540742","Rabies lyssavirus",11923,"GenBank","Mephitidae","2011",USA, New York
+"176","MK540743","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"177","MK540744","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2011",USA, New York
+"178","MK540745","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"179","MK540746","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"180","MK540747","Rabies lyssavirus",11925,"GenBank","Urocyon cinereoargenteus","2011",USA, New York
+"181","MK540748","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"182","MK540749","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2011",USA, New York
+"183","MK540750","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"184","MK540751","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2011",USA, New York
+"185","MK540752","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2011",USA, New York
+"186","MK540753","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"187","MK540754","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"188","MK540755","Rabies lyssavirus",11924,"GenBank","Mephitidae","2011",USA, New York
+"189","MK540756","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"190","MK540757","Rabies lyssavirus",11924,"GenBank","Urocyon cinereoargenteus","2011",USA, New York
+"191","MK540758","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2011",USA, New York
+"192","MK540759","Rabies lyssavirus",11924,"GenBank","Felis catus","2011",USA, New York
+"193","MK540760","Rabies lyssavirus",11923,"GenBank","Felis catus","2011",USA, New York
+"194","MK540761","Rabies lyssavirus",11923,"GenBank","Felis catus","2011",USA, New York
+"195","MK540762","Rabies lyssavirus",11922,"GenBank","Felis catus","2011",USA, New York
+"196","MK540763","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"197","MK540764","Rabies lyssavirus",11924,"GenBank","Vulpes vulpes","2011",USA, New York
+"198","MK540765","Rabies lyssavirus",11923,"GenBank","Mephitidae","2011",USA, New York
+"199","MK540766","Rabies lyssavirus",11924,"GenBank","Urocyon cinereoargenteus","2011",USA, New York
+"200","MK540767","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"201","MK540768","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"202","MK540769","Rabies lyssavirus",11924,"GenBank","Felis catus","2011",USA, New York
+"203","MK540770","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"204","MK540771","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2011",USA, New York
+"205","MK540772","Rabies lyssavirus",11924,"GenBank","Felis catus","2011",USA, New York
+"206","MK540773","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"207","MK540774","Rabies lyssavirus",11923,"GenBank","Felis catus","2011",USA, New York
+"208","MK540775","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2011",USA, New York
+"209","MK540776","Rabies lyssavirus",11924,"GenBank","Urocyon cinereoargenteus","2011",USA, New York
+"210","MK540777","Rabies lyssavirus",11924,"GenBank","Felis catus","2011",USA, New York
+"211","MK540778","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2011",USA, New York
+"212","MK540779","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"213","MK540780","Rabies lyssavirus",11924,"GenBank","Mephitidae","2011",USA, New York
+"214","MK540781","Rabies lyssavirus",11924,"GenBank","Marmota monax","2011",USA, New York
+"215","MK540782","Rabies lyssavirus",11924,"GenBank","Mephitidae","2011",USA, New York
+"216","MK540783","Rabies lyssavirus",11924,"GenBank","Felis catus","2011",USA, New York
+"217","MK540784","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA, New York
+"218","MK540785","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2011",USA, New York
+"219","MK540786","Rabies lyssavirus",11924,"GenBank","Urocyon cinereoargenteus","2011",USA, New York
+"220","MK540787","Rabies lyssavirus",11924,"GenBank","Mephitidae","2011",USA, New York
+"221","MK540788","Rabies lyssavirus",11923,"GenBank","Mephitidae","2011",USA, New York
+"222","MK540789","Rabies lyssavirus",11924,"GenBank","Urocyon cinereoargenteus","2011",USA, New York
+"223","MK540790","Rabies lyssavirus",11924,"GenBank","Bos taurus","2011",USA, New York
+"224","MK540791","Rabies lyssavirus",11924,"GenBank","Felis catus","2011",USA, New York
+"225","MK540792","Rabies lyssavirus",11923,"GenBank","Mephitidae","2011",USA, New York
+"226","MK540793","Rabies lyssavirus",11925,"GenBank","Mephitidae","2011",USA, New York
+"227","MK540794","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2015",USA, New York
+"228","MK540795","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2015",USA, New York
+"229","MK540796","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2015",USA, New York
+"230","MK540797","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2018",USA, New York
+"231","MK540798","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2018",USA, New York
+"232","MK540799","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2018",USA, New York
+"233","MF143210","Rabies lyssavirus",11939,"GenBank","Mephitidae","2013",USA, New Portland, Franklin, ME
+"234","MN418145","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, New Paltz, NY
+"235","MN418150","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2016",USA, New London, CT
+"236","MN418149","Rabies lyssavirus",11925,"GenBank","Vulpes vulpes","2017",USA, New City, NY
+"237","MF143220","Rabies lyssavirus",11939,"GenBank","Urocyon cinereoargenteus","2014",USA, Naples, Cumberland, ME
+"238","MN418158","Rabies lyssavirus",11925,"GenBank","Urocyon cinereoargenteus","2017",USA, Monticello, NY
+"239","MF143208","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2013",USA, Monmouth, Kennebec, ME
+"240","MF143194","Rabies lyssavirus",11939,"GenBank","Mephitidae","2013",USA, Milford, Penobscot, ME
+"241","MN418169","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2018",USA, Midland Park, NJ
+"242","MF143297","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2004",USA, Middlebury, Wyoming, NY
+"243","MF143281","Rabies lyssavirus",11939,"GenBank","Mephitidae","2006",USA, Middlebury, Addison, VT
+"244","MF143332","Rabies lyssavirus",11939,"GenBank","Mephitidae","2011",USA, Mexico, Oswego, NY
+"245","MF143199","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2013",USA, Mariaville, Hancock, ME
+"246","MN418183","Rabies lyssavirus",11925,"GenBank","Urocyon cinereoargenteus","2017",USA, Mahopac, NY
+"247","MF143282","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",USA, Lyndon, Caledonia, VT
+"248","MN418143","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2008",USA, Lloyd Harbor, NY
+"249","MF143195","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2013",USA, Litchfield, Kennebec, ME
+"250","MN418156","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2018",USA, Lincoln Park, NJ
+"251","MF143201","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2013",USA, Lewistion, Androscoggin, ME
+"252","MF143290","Rabies lyssavirus",11939,"GenBank","Procyon lotor","1994",USA, Kendall, Orleans, NY
+"253","MF143293","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2003",USA, Kendall, Orleans, NY
+"254","MF143303","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2004",USA, Kendall, Orleans, NY
+"255","MF143406","Rabies lyssavirus",11939,"GenBank","Bos taurus","2009",USA, Hyde Park, Lamoille, VT
+"256","MN418164","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2009",USA, Huntington, NY
+"257","MN418162","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Hudson, NY
+"258","MF143314","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2010",USA, Horseheads, Chemung, NY
+"259","MF143203","Rabies lyssavirus",11939,"GenBank","Vulpes vulpes","2013",USA, Hiram, Oxford, ME
+"260","MN418159","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2016",USA, Hicksville, NY
+"261","MF143321","Rabies lyssavirus",11939,"GenBank","Mephitidae","2010",USA, Hanover, Chautauqua, NY
+"262","MF143308","Rabies lyssavirus",11939,"GenBank","Mephitidae","2010",USA, Hammond, St Lawrence, NY
+"263","MN418148","Rabies lyssavirus",11925,"GenBank","Mephitis mephitis","2017",USA, Groton, CT
+"264","MF143338","Rabies lyssavirus",11939,"GenBank","Bos taurus","2009",USA, Greensboro, Orleans, VT
+"265","MF143404","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2009",USA, Greensboro, Orleans, VT
+"266","MN418176","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Greene, NY
+"267","MF143402","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2009",USA, Grand Isle, Grand Isle, VT
+"268","MF143309","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2010",USA, Gouveneur, St Lawrence, NY
+"269","MF143310","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2010",USA, Gouveneur, St Lawrence, NY
+"270","MF143382","Rabies lyssavirus",11939,"GenBank","Mephitidae","2007",USA, Georgia, Franklin, VT
+"271","MF143388","Rabies lyssavirus",11939,"GenBank","Mephitidae","2007",USA, Georgia, Franklin, VT
+"272","MF143209","Rabies lyssavirus",11939,"GenBank","Mephitidae","2013",USA, Franklin, Hancock, ME
+"273","MF143337","Rabies lyssavirus",11939,"GenBank","Mephitidae","2007",USA, Franklin, Franklin, VT
+"274","MF143390","Rabies lyssavirus",11939,"GenBank","Mephitidae","2007",USA, Franklin, Franklin, VT
+"275","MF143399","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2009",USA, Franklin, Franklin, VT
+"276","MF143405","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2009",USA, Franklin, Franklin, VT
+"277","MF143202","Rabies lyssavirus",11939,"GenBank","Mephitidae","2013",USA, Farmington, Franklin, ME
+"278","MF143380","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",USA, Fairfield, Franklin, VT
+"279","MN418182","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2016",USA, Fairfield, CT
+"280","MF143392","Rabies lyssavirus",11939,"GenBank","Mephitidae","2009",USA, Fairfax, Franklin, VT
+"281","MF143286","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",USA, Essex, Chittenden, VT
+"282","MF143397","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2009",USA, Essex, Chittenden, VT
+"283","MF143288","Rabies lyssavirus",11939,"GenBank","Mephitidae","2008",USA, Elmore, Lamoille, VT
+"284","MF143326","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2011",USA, Ellisburg, Jefferson, NY
+"285","MF143197","Rabies lyssavirus",11939,"GenBank","Mephitidae","2013",USA, Eliot, York, ME
+"286","MF143193","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2013",USA, Dixmont, Penobscot, ME
+"287","MF143340","Rabies lyssavirus",11939,"GenBank","Mephitidae","2011",USA, Derby, Orleans, VT
+"288","MN418142","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2018",USA, Denville, NJ
+"289","MF143221","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2014",USA, Deblois, Washington, ME
+"290","MF143278","Rabies lyssavirus",11939,"GenBank","Bos taurus","2006",USA, Danville, Caledonia, VT
+"291","MF143287","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",USA, Danville, Caledonia, VT
+"292","MF143386","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",USA, Danville, Caledonia, VT
+"293","MF143387","Rabies lyssavirus",11939,"GenBank","Mephitidae","2007",USA, Danville, Caledonia, VT
+"294","MN418180","Rabies lyssavirus",11925,"GenBank","Mephitis mephitis","2017",USA, Cutler, ME
+"295","MF143331","Rabies lyssavirus",11939,"GenBank","Mephitidae","2011",USA, Croghan, Lewis, NY
+"296","MF143394","Rabies lyssavirus",11939,"GenBank","Mephitidae","2009",USA, Craftsbury, Orleans, VT
+"297","MF143398","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2009",USA, Craftsbury, Orleans, VT
+"298","MF143412","Rabies lyssavirus",11939,"GenBank","Mephitidae","2010",USA, Craftsbury, Orleans, VT
+"299","MN418152","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2016",USA, Cornwallville, NY
+"300","MF143215","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2014",USA, Cornville, Somerset, ME
+"301","MF143216","Rabies lyssavirus",11939,"GenBank","Mephitidae","2014",USA, Cornville, Somerset, ME
+"302","MN418147","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Cobleskill, NY
+"303","MN418178","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Clinton, NY
+"304","MF143279","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2006",USA, Clarendon, Rutland, VT
+"305","MF143191","Rabies lyssavirus",11939,"GenBank","Mephitidae","2013",USA, China, Kennebec, ME
+"306","MF143217","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2014",USA, Charlotte, Washington, ME
+"307","MF143334","Rabies lyssavirus",11939,"GenBank","Mephitidae","2011",USA, Champlain, Clinton, NY
+"308","MF143322","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2010",USA, Carlton, Orleans, NY
+"309","MF143311","Rabies lyssavirus",11939,"GenBank","Mephitidae","2010",USA, Cambria, Niagara, NY
+"310","MF143373","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2005",USA, Cabot, Washington, VT
+"311","MF143316","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2010",USA, Byron, Genesee, NY
+"312","MF143378","Rabies lyssavirus",11939,"GenBank","Mephitidae","2007",USA, Burlington, Chittenden, VT
+"313","MF143381","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",USA, Burlington, Chittenden, VT
+"314","MF143407","Rabies lyssavirus",11939,"GenBank","Mephitidae","2010",USA, Burlington, Chittenden, VT
+"315","MF143409","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2010",USA, Burlington, Chittenden, VT
+"316","MF143413","Rabies lyssavirus",11939,"GenBank","Mephitidae","2010",USA, Burlington, Chittenden, VT
+"317","MF143414","Rabies lyssavirus",11939,"GenBank","Mephitidae","2011",USA, Burlington, Chittenden, VT
+"318","MF143415","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2011",USA, Burlington, Chittenden, VT
+"319","MN418146","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Brownsville, VT
+"320","MN418157","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Bronx, NY
+"321","MN418174","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2017",USA, Bronx, NY
+"322","MN418165","Rabies lyssavirus",11925,"GenBank","Vulpes vulpes","2017",USA, Bristol, VT
+"323","MN418155","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2016",USA, Bridgeport, CT
+"324","MF143291","Rabies lyssavirus",11939,"GenBank","Procyon lotor","1995",USA, Black Brook, Clinton, NY
+"325","MF143328","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2011",USA, Batavia City, Genesee, NY
+"326","MF143403","Rabies lyssavirus",11939,"GenBank","Bos taurus","2009",USA, Barton, Orleans, VT
+"327","MF143391","Rabies lyssavirus",11939,"GenBank","Bos taurus","2008",USA, Bakersfield, Franklin, VT
+"328","MF143222","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2014",USA, Baileyville, Washington, ME
+"329","MN418177","Rabies lyssavirus",11925,"GenBank","Urocyon cinereoargenteus","2017",USA, Arlington, VT
+"330","MF143325","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2011",USA, Amherst, Erie, NY
+"331","MF143329","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2011",USA, Amherst, Erie, NY
+"332","MN418166","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2018",USA, Altona, NY
+"333","MF143295","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2003",USA, Albion, Orleans, NY
+"334","MN233898","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1989",USA, Alaska
+"335","MN233899","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2007",USA, Alaska
+"336","MN233900","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2007",USA, Alaska
+"337","MN233901","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2008",USA, Alaska
+"338","MN233902","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2008",USA, Alaska
+"339","MN862283","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1991",USA, Alabama
+"340","MF143257","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2004",USA, Adams, Jefferson, NY
+"341","MF143298","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2004",USA, Adams, Jefferson, NY
+"342","MF143324","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2011",USA, Adams, Jefferson, NY
+"343","MN418172","Rabies lyssavirus",11925,"GenBank","Mephitis mephitis","2017",USA, Accord, NY
+"344","MG562518","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2003",USA,
+"345","MG562519","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2003",USA,
+"346","MG562520","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2003",USA,
+"347","MG562521","Rabies lyssavirus",11924,"GenBank","Equus caballus","2004",USA,
+"348","MG562522","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2003",USA,
+"349","MG562523","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA,
+"350","MG562524","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1990",USA,
+"351","MG562525","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1992",USA,
+"352","MG562526","Rabies lyssavirus",11924,"GenBank","Procyon lotor","1995",USA,
+"353","MG562527","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2003",USA,
+"354","MG562528","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2003",USA,
+"355","MG562529","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2003",USA,
+"356","MG562530","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2003",USA,
+"357","MG562531","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2003",USA,
+"358","MG562532","Rabies lyssavirus",11924,"GenBank","Mephitidae","2003",USA,
+"359","MG562533","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2003",USA,
+"360","MG562534","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA,
+"361","MG562535","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA,
+"362","MG562536","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA,
+"363","MG562537","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA,
+"364","MG562538","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2004",USA,
+"365","MG562539","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA,
+"366","MG562540","Rabies lyssavirus",11924,"GenBank","Mephitidae","2004",USA,
+"367","MG562541","Rabies lyssavirus",11924,"GenBank","Mephitidae","2004",USA,
+"368","MG562542","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA,
+"369","MG562543","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2010",USA,
+"370","MG562544","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2010",USA,
+"371","MG562545","Rabies lyssavirus",11924,"GenBank","Mephitidae","2010",USA,
+"372","MG562546","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2010",USA,
+"373","MG562547","Rabies lyssavirus",11923,"GenBank","Mephitidae","2011",USA,
+"374","MG562548","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA,
+"375","MG562549","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA,
+"376","MG562550","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA,
+"377","MG562551","Rabies lyssavirus",11924,"GenBank","Urocyon cinereoargenteus","2011",USA,
+"378","MG562552","Rabies lyssavirus",11924,"GenBank","Urocyon cinereoargenteus","2011",USA,
+"379","MG562553","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2011",USA,
+"380","MG562554","Rabies lyssavirus",11924,"GenBank","Mephitidae","2011",USA,
+"381","MG562555","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2005",USA,
+"382","MG562556","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2005",USA,
+"383","MG562557","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2005",USA,
+"384","MG562558","Rabies lyssavirus",11925,"GenBank","Mephitidae","2005",USA,
+"385","MG562559","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2005",USA,
+"386","MG562560","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2005",USA,
+"387","MG562561","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2005",USA,
+"388","MG562562","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2005",USA,
+"389","MG562563","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2005",USA,
+"390","MG562564","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2006",USA,
+"391","MG562565","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2006",USA,
+"392","MG562566","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2006",USA,
+"393","MG562567","Rabies lyssavirus",11923,"GenBank","Mephitidae","2006",USA,
+"394","MG562568","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2006",USA,
+"395","MG562569","Rabies lyssavirus",11926,"GenBank","Procyon lotor","2006",USA,
+"396","MG562570","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2006",USA,
+"397","MG562571","Rabies lyssavirus",11924,"GenBank","Bos taurus","2006",USA,
+"398","MG562572","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2006",USA,
+"399","MG562573","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2006",USA,
+"400","MG562574","Rabies lyssavirus",11925,"GenBank","Marmota monax","2006",USA,
+"401","MG562575","Rabies lyssavirus",11923,"GenBank","Equus caballus","2007",USA,
+"402","MG562576","Rabies lyssavirus",11924,"GenBank","Mephitidae","2007",USA,
+"403","MG562577","Rabies lyssavirus",11925,"GenBank","Mephitidae","2007",USA,
+"404","MG562578","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2007",USA,
+"405","MG562579","Rabies lyssavirus",11924,"GenBank","Mephitidae","2007",USA,
+"406","MG562580","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2008",USA,
+"407","MG562581","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2008",USA,
+"408","MG562582","Rabies lyssavirus",11924,"GenBank","Mephitidae","2008",USA,
+"409","MG562583","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2008",USA,
+"410","MG562584","Rabies lyssavirus",11924,"GenBank","Mephitidae","2008",USA,
+"411","MG562585","Rabies lyssavirus",11924,"GenBank","Mephitidae","2008",USA,
+"412","MG562586","Rabies lyssavirus",11924,"GenBank","Mephitidae","2008",USA,
+"413","MG562587","Rabies lyssavirus",11923,"GenBank","Mephitidae","2008",USA,
+"414","MG562588","Rabies lyssavirus",11926,"GenBank","Mephitidae","2008",USA,
+"415","MG562589","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2008",USA,
+"416","MG562590","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2008",USA,
+"417","MG562591","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2008",USA,
+"418","MG562592","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2008",USA,
+"419","MG562593","Rabies lyssavirus",11923,"GenBank","Mephitidae","2009",USA,
+"420","MG562594","Rabies lyssavirus",11924,"GenBank","Equus caballus","2009",USA,
+"421","MG562595","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2009",USA,
+"422","MG562596","Rabies lyssavirus",11923,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"423","MG562597","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2009",USA,
+"424","MG562598","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2009",USA,
+"425","MG562599","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2009",USA,
+"426","MG562600","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2009",USA,
+"427","MG562601","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2009",USA,
+"428","MG562602","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2009",USA,
+"429","MG562603","Rabies lyssavirus",11924,"GenBank","Bos taurus","2009",USA,
+"430","MG562604","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2009",USA,
+"431","MG562605","Rabies lyssavirus",11924,"GenBank","Mephitidae","2009",USA,
+"432","MG562606","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2009",USA,
+"433","MG562607","Rabies lyssavirus",11923,"GenBank","Urocyon cinereoargenteus","2010",USA,
+"434","MG562608","Rabies lyssavirus",11924,"GenBank","Mephitidae","2010",USA,
+"435","MG562609","Rabies lyssavirus",11925,"GenBank","Urocyon cinereoargenteus","2010",USA,
+"436","MG562610","Rabies lyssavirus",11924,"GenBank","Mephitidae","2011",USA,
+"437","MG458304","Rabies lyssavirus",11922,"GenBank","Chiroptera","1975",USA,
+"438","KY026414","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2013",USA,
+"439","KY026416","Rabies lyssavirus",11923,"GenBank","Procyon lotor","1995",USA,
+"440","KY026417","Rabies lyssavirus",11923,"GenBank","Procyon lotor","1998",USA,
+"441","KY026418","Rabies lyssavirus",11923,"GenBank","Mephitidae","1998",USA,
+"442","KY026419","Rabies lyssavirus",11924,"GenBank","Mephitidae","2004",USA,
+"443","KY026420","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2004",USA,
+"444","KY026421","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2011",USA,
+"445","KY026478","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2006",USA,
+"446","KY026479","Rabies lyssavirus",11924,"GenBank","Mephitidae","2006",USA,
+"447","KY026480","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2007",USA,
+"448","KY026481","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2008",USA,
+"449","KY026482","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2008",USA,
+"450","KY026483","Rabies lyssavirus",11923,"GenBank","Mephitidae","2011",USA,
+"451","KX148106","Rabies lyssavirus",11926,"GenBank","Canidae","1990",USA,
+"452","KX148213","Rabies lyssavirus",11801,"GenBank","Mephitidae","1982",USA,
+"453","KX148224","Rabies lyssavirus",11804,"GenBank","Mephitidae","1991",USA,
+"454","KU198460","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1989",USA,
+"455","KU198462","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1990",USA,
+"456","KU198463","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1990",USA,
+"457","KU198471","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2007",USA,
+"458","KC737850","Rabies lyssavirus",11925,"GenBank","Homo sapiens","2011",USA,
+"459","JQ685892","Rabies lyssavirus",11828,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"460","JQ685893","Rabies lyssavirus",11929,"GenBank","Mephitis mephitis","2001",USA,
+"461","JQ685894","Rabies lyssavirus",11923,"GenBank","Mephitis mephitis","1994",USA,
+"462","JQ685895","Rabies lyssavirus",11926,"GenBank","Lasionycteris noctivagans","2003",USA,
+"463","JQ685896","Rabies lyssavirus",11821,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"464","JQ685897","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","2001",USA,
+"465","JQ685898","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","2009",USA,
+"466","JQ685899","Rabies lyssavirus",11930,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"467","JQ685900","Rabies lyssavirus",11924,"GenBank","Lasiurus seminolus","2003",USA,
+"468","JQ685901","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2003",USA,
+"469","JQ685902","Rabies lyssavirus",11924,"GenBank","Lasiurus borealis","2005",USA,
+"470","JQ685903","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","2004",USA,
+"471","JQ685904","Rabies lyssavirus",11929,"GenBank","Mephitis mephitis","2001",USA,
+"472","JQ685905","Rabies lyssavirus",11922,"GenBank","Tadarida brasiliensis","2003",USA,
+"473","JQ685906","Rabies lyssavirus",11828,"GenBank","Mephitis mephitis","2001",USA,
+"474","JQ685907","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","1996",USA,
+"475","JQ685908","Rabies lyssavirus",11821,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"476","JQ685909","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","2005",USA,
+"477","JQ685910","Rabies lyssavirus",11925,"GenBank","Dasypterus xanthinus","2002",USA,
+"478","JQ685911","Rabies lyssavirus",11922,"GenBank","Mephitis mephitis","2001",USA,
+"479","JQ685912","Rabies lyssavirus",11830,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"480","JQ685913","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","1985",USA,
+"481","JQ685914","Rabies lyssavirus",11817,"GenBank","Urocyon cinereoargenteus","2010",USA,
+"482","JQ685915","Rabies lyssavirus",11924,"GenBank","Dasypterus intermedius","2002",USA,
+"483","JQ685916","Rabies lyssavirus",11923,"GenBank","Dasypterus intermedius","2002",USA,
+"484","JQ685917","Rabies lyssavirus",11922,"GenBank","Canis latrans","2010",USA,
+"485","JQ685918","Rabies lyssavirus",11924,"GenBank","Urocyon cinereoargenteus","2010",USA,
+"486","JQ685919","Rabies lyssavirus",11924,"GenBank","Lasiurus borealis","2005",USA,
+"487","JQ685920","Rabies lyssavirus",11924,"GenBank","Eptesicus fuscus","1984",USA,
+"488","JQ685921","Rabies lyssavirus",11910,"GenBank","Myotis austroriparius","2001",USA,
+"489","JQ685922","Rabies lyssavirus",11923,"GenBank","Perimyotis subflavus","2005",USA,
+"490","JQ685923","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","1999",USA,
+"491","JQ685924","Rabies lyssavirus",11817,"GenBank","Urocyon cinereoargenteus","2010",USA,
+"492","JQ685925","Rabies lyssavirus",11924,"GenBank","Eptesicus fuscus","2004",USA,
+"493","JQ685926","Rabies lyssavirus",11824,"GenBank","Eptesicus fuscus","2005",USA,
+"494","JQ685927","Rabies lyssavirus",11813,"GenBank","Mephitis mephitis","2001",USA,
+"495","JQ685928","Rabies lyssavirus",11821,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"496","JQ685930","Rabies lyssavirus",11808,"GenBank","Mephitis mephitis","2001",USA,
+"497","JQ685931","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","2000",USA,
+"498","JQ685932","Rabies lyssavirus",11929,"GenBank","Mephitis mephitis","2001",USA,
+"499","JQ685933","Rabies lyssavirus",11922,"GenBank","Urocyon cinereoargenteus","2004",USA,
+"500","JQ685934","Rabies lyssavirus",11922,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"501","JQ685935","Rabies lyssavirus",11828,"GenBank","Mephitis mephitis","2001",USA,
+"502","JQ685937","Rabies lyssavirus",11802,"GenBank","Bassariscus astutus","2009",USA,
+"503","JQ685938","Rabies lyssavirus",11923,"GenBank","Mephitis mephitis","2009",USA,
+"504","JQ685939","Rabies lyssavirus",11834,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"505","JQ685940","Rabies lyssavirus",11922,"GenBank","Mephitis mephitis","2001",USA,
+"506","JQ685941","Rabies lyssavirus",11922,"GenBank","Mephitis mephitis","2005",USA,
+"507","JQ685942","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","1981",USA,
+"508","JQ685943","Rabies lyssavirus",11925,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"509","JQ685944","Rabies lyssavirus",11925,"GenBank","Mephitis mephitis","1984",USA,
+"510","JQ685945","Rabies lyssavirus",11922,"GenBank","Felis catus","2005",USA,
+"511","JQ685946","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","1999",USA,
+"512","JQ685947","Rabies lyssavirus",11927,"GenBank","Aeorestes cinereus","2004",USA,
+"513","JQ685948","Rabies lyssavirus",11922,"GenBank","Urocyon cinereoargenteus","2010",USA,
+"514","JQ685949","Rabies lyssavirus",11813,"GenBank","Mephitis mephitis","2001",USA,
+"515","JQ685950","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","2009",USA,
+"516","JQ685951","Rabies lyssavirus",11821,"GenBank","Eptesicus fuscus","2010",USA,
+"517","JQ685952","Rabies lyssavirus",11923,"GenBank","Parastrellus hesperus","2002",USA,
+"518","JQ685955","Rabies lyssavirus",11923,"GenBank","Myotis yumanensis","2005",USA,
+"519","JQ685956","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","1975",USA,
+"520","JQ685957","Rabies lyssavirus",11922,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"521","JQ685958","Rabies lyssavirus",11929,"GenBank","Mephitis mephitis","2001",USA,
+"522","JQ685959","Rabies lyssavirus",11922,"GenBank","Mephitis mephitis","2001",USA,
+"523","JQ685960","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","2001",USA,
+"524","JQ685961","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","2010",USA,
+"525","JQ685962","Rabies lyssavirus",11922,"GenBank","Mephitis mephitis","2001",USA,
+"526","JQ685964","Rabies lyssavirus",11922,"GenBank","Mephitis mephitis","2004",USA,
+"527","JQ685965","Rabies lyssavirus",11923,"GenBank","Parastrellus hesperus","2002",USA,
+"528","JQ685966","Rabies lyssavirus",11929,"GenBank","Mephitis mephitis","2001",USA,
+"529","JQ685967","Rabies lyssavirus",11923,"GenBank","Mephitis mephitis","",USA,
+"530","JQ685968","Rabies lyssavirus",11923,"GenBank","Mephitis mephitis","2009",USA,
+"531","JQ685969","Rabies lyssavirus",11922,"GenBank","Mephitis mephitis","2001",USA,
+"532","JQ685970","Rabies lyssavirus",11923,"GenBank","Mephitis mephitis","1974",USA,
+"533","JQ685971","Rabies lyssavirus",11924,"GenBank","Antrozous pallidus","2009",USA,
+"534","JQ685972","Rabies lyssavirus",11821,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"535","JQ685973","Rabies lyssavirus",11922,"GenBank","Canis latrans","2011",USA,
+"536","JQ685974","Rabies lyssavirus",11922,"GenBank","Eptesicus fuscus","1995",USA,
+"537","JQ685976","Rabies lyssavirus",11802,"GenBank","Urocyon cinereoargenteus","2009",USA,
+"538","JQ685977","Rabies lyssavirus",11821,"GenBank","Urocyon cinereoargenteus","2010",USA,
+"539","AB645847","Rabies lyssavirus",11923,"GenBank","Marmota monax","",USA,
+"540","HM535790","Rabies lyssavirus",11927,"GenBank","","",USA,
+"541","KY860583","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","1999",Turkey,
+"542","KY860584","Rabies lyssavirus",11924,"GenBank","Canidae","1999",Turkey,
+"543","KY860585","Rabies lyssavirus",11923,"GenBank","Canidae","2001",Turkey,
+"544","KY860586","Rabies lyssavirus",11923,"GenBank","Canidae","2001",Turkey,
+"545","KY860587","Rabies lyssavirus",11923,"GenBank","Canidae","2001",Turkey,
+"546","KY860588","Rabies lyssavirus",11924,"GenBank","Canidae","2004",Turkey,
+"547","KY860589","Rabies lyssavirus",11924,"GenBank","Canidae","2006",Turkey,
+"548","KY860590","Rabies lyssavirus",11923,"GenBank","Canidae","2007",Turkey,
+"549","KY860591","Rabies lyssavirus",11924,"GenBank","Canidae","2008",Turkey,
+"550","KY860592","Rabies lyssavirus",11924,"GenBank","Canidae","2009",Turkey,
+"551","KY860593","Rabies lyssavirus",11924,"GenBank","Canidae","2010",Turkey,
+"552","KY860594","Rabies lyssavirus",11924,"GenBank","Canidae","2012",Turkey,
+"553","KY860595","Rabies lyssavirus",11923,"GenBank","Canidae","2012",Turkey,
+"554","KY860596","Rabies lyssavirus",11924,"GenBank","Canidae","2014",Turkey,
+"555","KY860597","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2014",Turkey,
+"556","KY860598","Rabies lyssavirus",11924,"GenBank","Canidae","2014",Turkey,
+"557","KY860599","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2014",Turkey,
+"558","KY860600","Rabies lyssavirus",11925,"GenBank","Canidae","2014",Turkey,
+"559","KY860601","Rabies lyssavirus",11925,"GenBank","Canidae","2014",Turkey,
+"560","KY860602","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2014",Turkey,
+"561","KY860603","Rabies lyssavirus",11923,"GenBank","Canidae","2015",Turkey,
+"562","KY860604","Rabies lyssavirus",11923,"GenBank","Canidae","2000",Turkey,
+"563","KY860605","Rabies lyssavirus",11923,"GenBank","Canidae","2001",Turkey,
+"564","KY860606","Rabies lyssavirus",11923,"GenBank","Canidae","2001",Turkey,
+"565","KY860607","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2001",Turkey,
+"566","KY860608","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2001",Turkey,
+"567","KY860609","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2001",Turkey,
+"568","KY860610","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2001",Turkey,
+"569","KY860611","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2001",Turkey,
+"570","KY860612","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","1989",Turkey,
+"571","KX148162","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1993",Turkey,
+"572","KX148163","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1993",Turkey,
+"573","KX148164","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1993",Turkey,
+"574","KX148165","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1993",Turkey,
+"575","KX148166","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1993",Turkey,
+"576","KX148167","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1993",Turkey,
+"577","MK981888","Rabies lyssavirus",11796,"GenBank","Canis lupus familiaris","1993",Tunisia,
+"578","MN075931","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","1999",Thailand,
+"579","JN786877","Rabies lyssavirus",11923,"GenBank","","",Thailand,
+"580","JN786878","Rabies lyssavirus",11923,"GenBank","","",Thailand,
+"581","EU293111","Rabies lyssavirus",11925,"GenBank","Homo sapiens","1983",Thailand,
+"582","KR906752","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Zanzibar, Kusini Unguja
+"583","KY210220","Rabies lyssavirus",11914,"GenBank","Capra hircus","2008",Tanzania, Serengeti District
+"584","KY210221","Rabies lyssavirus",11912,"GenBank","Capra hircus","2008",Tanzania, Serengeti District
+"585","KY210222","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2009",Tanzania, Serengeti District
+"586","KY210223","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2007",Tanzania, Serengeti District
+"587","KY210224","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2010",Tanzania, Serengeti District
+"588","KY210225","Rabies lyssavirus",11923,"GenBank","Capra hircus","2011",Tanzania, Serengeti District
+"589","KY210226","Rabies lyssavirus",11920,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"590","KY210227","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"591","KY210228","Rabies lyssavirus",11856,"GenBank","Capra hircus","2011",Tanzania, Serengeti District
+"592","KY210229","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"593","KY210230","Rabies lyssavirus",11923,"GenBank","Bos taurus","2011",Tanzania, Serengeti District
+"594","KY210231","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"595","KY210232","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"596","KY210233","Rabies lyssavirus",11923,"GenBank","Capra hircus","2011",Tanzania, Serengeti District
+"597","KY210234","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"598","KY210235","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"599","KY210236","Rabies lyssavirus",11914,"GenBank","Bos taurus","2011",Tanzania, Serengeti District
+"600","KY210237","Rabies lyssavirus",11920,"GenBank","Bos taurus","2011",Tanzania, Serengeti District
+"601","KY210238","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"602","KY210239","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"603","KY210240","Rabies lyssavirus",11884,"GenBank","Bos taurus","2011",Tanzania, Serengeti District
+"604","KY210241","Rabies lyssavirus",11905,"GenBank","Capra hircus","2011",Tanzania, Serengeti District
+"605","KY210242","Rabies lyssavirus",11923,"GenBank","Capra hircus","2011",Tanzania, Serengeti District
+"606","KY210243","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"607","KY210244","Rabies lyssavirus",11858,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"608","KY210245","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"609","KY210246","Rabies lyssavirus",11923,"GenBank","Ovis aries","2012",Tanzania, Serengeti District
+"610","KY210247","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"611","KY210248","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"612","KY210249","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"613","KY210250","Rabies lyssavirus",11920,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"614","KY210251","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"615","KY210252","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"616","KY210253","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"617","KY210254","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"618","KY210255","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"619","KY210256","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"620","KY210257","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"621","KY210258","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"622","KY210259","Rabies lyssavirus",11920,"GenBank","Felis catus","2013",Tanzania, Serengeti District
+"623","KY210260","Rabies lyssavirus",11897,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"624","KY210261","Rabies lyssavirus",11923,"GenBank","Capra hircus","2013",Tanzania, Serengeti District
+"625","KY210262","Rabies lyssavirus",11923,"GenBank","Capra hircus","2013",Tanzania, Serengeti District
+"626","KY210263","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"627","KY210264","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"628","KY210265","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"629","KY210266","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"630","KY210267","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"631","KY210268","Rabies lyssavirus",11923,"GenBank","Bos taurus","2013",Tanzania, Serengeti District
+"632","KY210269","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"633","KY210270","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"634","KY210271","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"635","KY210272","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"636","KY210273","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2013",Tanzania, Serengeti District
+"637","KY210274","Rabies lyssavirus",11923,"GenBank","Bos taurus","2013",Tanzania, Serengeti District
+"638","KY210275","Rabies lyssavirus",11914,"GenBank","Bos taurus","2013",Tanzania, Serengeti District
+"639","KY210276","Rabies lyssavirus",11923,"GenBank","Bos taurus","2013",Tanzania, Serengeti District
+"640","KY210277","Rabies lyssavirus",11923,"GenBank","Bos taurus","2011",Tanzania, Serengeti District
+"641","KY210278","Rabies lyssavirus",11920,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"642","KY210279","Rabies lyssavirus",11903,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"643","KY210280","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"644","KY210281","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"645","KY210282","Rabies lyssavirus",11869,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"646","KY210283","Rabies lyssavirus",11923,"GenBank","Bos taurus","2012",Tanzania, Serengeti District
+"647","KY210284","Rabies lyssavirus",11914,"GenBank","Canis","2012",Tanzania, Serengeti District
+"648","KY210285","Rabies lyssavirus",11923,"GenBank","Capra hircus","2012",Tanzania, Serengeti District
+"649","KY210286","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"650","KY210287","Rabies lyssavirus",11873,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"651","KY210288","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"652","KY210289","Rabies lyssavirus",11920,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"653","KY210290","Rabies lyssavirus",11920,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"654","KY210291","Rabies lyssavirus",11923,"GenBank","Canis","2012",Tanzania, Serengeti District
+"655","KY210292","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"656","KY210293","Rabies lyssavirus",11915,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"657","KY210294","Rabies lyssavirus",11920,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"658","KY210295","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"659","KY210296","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"660","KY210297","Rabies lyssavirus",11923,"GenBank","Ovis aries","2012",Tanzania, Serengeti District
+"661","KY210298","Rabies lyssavirus",11920,"GenBank","Capra hircus","2012",Tanzania, Serengeti District
+"662","KY210299","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"663","KY210300","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"664","KY210301","Rabies lyssavirus",11923,"GenBank","Bos taurus","2012",Tanzania, Serengeti District
+"665","KY210302","Rabies lyssavirus",11920,"GenBank","Capra hircus","2012",Tanzania, Serengeti District
+"666","KY210303","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"667","KY210304","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"668","KY210305","Rabies lyssavirus",11923,"GenBank","Hyaenidae","2012",Tanzania, Serengeti District
+"669","KY210306","Rabies lyssavirus",11923,"GenBank","Viverridae","2012",Tanzania, Serengeti District
+"670","KY210307","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"671","KY210308","Rabies lyssavirus",11875,"GenBank","Bos taurus","2012",Tanzania, Serengeti District
+"672","KY210309","Rabies lyssavirus",11906,"GenBank","","2012",Tanzania, Serengeti District
+"673","KY210310","Rabies lyssavirus",11891,"GenBank","Capra hircus","2012",Tanzania, Serengeti District
+"674","KY210311","Rabies lyssavirus",11919,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"675","KR906734","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2008",Tanzania, Serengeti District
+"676","KR906737","Rabies lyssavirus",11920,"GenBank","Canis lupus familiaris","2008",Tanzania, Serengeti District
+"677","KR906738","Rabies lyssavirus",11923,"GenBank","Bos taurus","2004",Tanzania, Serengeti District
+"678","KR906740","Rabies lyssavirus",11914,"GenBank","Felis silvestris","2009",Tanzania, Serengeti District
+"679","KR906742","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2009",Tanzania, Serengeti District
+"680","KR906755","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"681","KR906756","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"682","KR906767","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"683","KR906768","Rabies lyssavirus",11878,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"684","KR906769","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"685","KR906770","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"686","KR906771","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"687","KR906772","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"688","KR906773","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"689","KR906774","Rabies lyssavirus",11921,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"690","KR906775","Rabies lyssavirus",11854,"GenBank","","2011",Tanzania, Serengeti District
+"691","KR906776","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"692","KR906777","Rabies lyssavirus",11923,"GenBank","","2011",Tanzania, Serengeti District
+"693","KR906778","Rabies lyssavirus",11914,"GenBank","","2011",Tanzania, Serengeti District
+"694","KR906779","Rabies lyssavirus",11920,"GenBank","Bos taurus","2012",Tanzania, Serengeti District
+"695","KR906780","Rabies lyssavirus",11920,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"696","KR906781","Rabies lyssavirus",11923,"GenBank","","2012",Tanzania, Serengeti District
+"697","KR906782","Rabies lyssavirus",11919,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"698","KR906783","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"699","KR906784","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"700","KR906785","Rabies lyssavirus",11922,"GenBank","","2012",Tanzania, Serengeti District
+"701","KR906786","Rabies lyssavirus",11923,"GenBank","Sus scrofa","2012",Tanzania, Serengeti District
+"702","KR906787","Rabies lyssavirus",11923,"GenBank","Bos taurus","2012",Tanzania, Serengeti District
+"703","KR906788","Rabies lyssavirus",11919,"GenBank","Bos taurus","2012",Tanzania, Serengeti District
+"704","KR906789","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"705","KR906790","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"706","KR906791","Rabies lyssavirus",11874,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"707","KR906792","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",Tanzania, Serengeti District
+"708","KR534217","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2008",Tanzania, Serengeti District
+"709","KR534218","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2008",Tanzania, Serengeti District
+"710","KR534219","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2007",Tanzania, Serengeti District
+"711","KR534220","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2008",Tanzania, Serengeti District
+"712","KR534228","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2010",Tanzania, Serengeti District
+"713","KR534229","Rabies lyssavirus",11849,"GenBank","Canis lupus familiaris","2010",Tanzania, Serengeti District
+"714","KR534230","Rabies lyssavirus",11885,"GenBank","Canis lupus familiaris","2010",Tanzania, Serengeti District
+"715","KR534231","Rabies lyssavirus",11884,"GenBank","Canis lupus familiaris","2010",Tanzania, Serengeti District
+"716","KR534232","Rabies lyssavirus",11923,"GenBank","Canis","2011",Tanzania, Serengeti District
+"717","KR534233","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"718","KR534234","Rabies lyssavirus",11923,"GenBank","Bos taurus","2011",Tanzania, Serengeti District
+"719","KR534235","Rabies lyssavirus",11923,"GenBank","Bos taurus","2011",Tanzania, Serengeti District
+"720","KR534236","Rabies lyssavirus",11923,"GenBank","Bos taurus","2011",Tanzania, Serengeti District
+"721","KR534237","Rabies lyssavirus",11923,"GenBank","Bos taurus","2011",Tanzania, Serengeti District
+"722","KR534238","Rabies lyssavirus",11867,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"723","KR534244","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"724","KR534245","Rabies lyssavirus",11923,"GenBank","Bos taurus","2011",Tanzania, Serengeti District
+"725","KR534246","Rabies lyssavirus",11923,"GenBank","Viverridae","2011",Tanzania, Serengeti District
+"726","KR534247","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"727","KR534248","Rabies lyssavirus",11923,"GenBank","Bos taurus","2011",Tanzania, Serengeti District
+"728","KR534249","Rabies lyssavirus",11917,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"729","KR534250","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"730","KR534251","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"731","KR534252","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"732","KR534253","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2011",Tanzania, Serengeti District
+"733","KR534254","Rabies lyssavirus",11923,"GenBank","Felis catus","2011",Tanzania, Serengeti District
+"734","KR534256","Rabies lyssavirus",11921,"GenBank","Bos taurus","2011",Tanzania, Serengeti District
+"735","KR906745","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2010",Tanzania, Pwani region
+"736","KR906748","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2010",Tanzania, Pemba, Chake chake
+"737","KR906749","Rabies lyssavirus",11878,"GenBank","Canis lupus familiaris","2010",Tanzania, Pemba island
+"738","KR906750","Rabies lyssavirus",11854,"GenBank","Canis lupus familiaris","2010",Tanzania, Pemba island
+"739","KR906766","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2010",Tanzania, Pemba island
+"740","KR906753","Rabies lyssavirus",11922,"GenBank","Bos taurus","2011",Tanzania, Mtwara region
+"741","KR906735","Rabies lyssavirus",11903,"GenBank","Canis lupus familiaris","2008",Tanzania, Morogoro region
+"742","KR906736","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2008",Tanzania, Morogoro region
+"743","KR906758","Rabies lyssavirus",11825,"GenBank","Ovis aries","2010",Tanzania, Morogoro region
+"744","KR906759","Rabies lyssavirus",11829,"GenBank","Canis lupus familiaris","2010",Tanzania, Morogoro region
+"745","KR906760","Rabies lyssavirus",11920,"GenBank","Canis lupus familiaris","2010",Tanzania, Morogoro region
+"746","KR906761","Rabies lyssavirus",11845,"GenBank","Canis lupus familiaris","2010",Tanzania, Morogoro region
+"747","KR906762","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2010",Tanzania, Morogoro region
+"748","KR906763","Rabies lyssavirus",11920,"GenBank","Canis lupus familiaris","2010",Tanzania, Morogoro region
+"749","KR906764","Rabies lyssavirus",11914,"GenBank","Capra hircus","2010",Tanzania, Morogoro region
+"750","KR906765","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2010",Tanzania, Morogoro region
+"751","KR906751","Rabies lyssavirus",11915,"GenBank","Canis lupus familiaris","2011",Tanzania, Lindi region
+"752","KR906754","Rabies lyssavirus",11865,"GenBank","Canis lupus familiaris","2011",Tanzania, Lindi region
+"753","KR906757","Rabies lyssavirus",11890,"GenBank","Canis lupus familiaris","2010",Tanzania, Lindi region
+"754","KR906744","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2010",Tanzania, Iringa region
+"755","KR906747","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2010",Tanzania, Iringa region
+"756","KR906743","Rabies lyssavirus",11914,"GenBank","Canis lupus familiaris","2010",Tanzania, Dar es Salaam
+"757","KR906746","Rabies lyssavirus",11875,"GenBank","Canis lupus familiaris","2010",Tanzania, Dar es Salaam
+"758","KR906739","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2004",Tanzania, Arusha Region
+"759","KR906741","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2003",Tanzania, Arusha Region
+"760","MN726802","Rabies lyssavirus",11552,"GenBank","","2016",Tanzania,
+"761","MN726804","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2015",Tanzania,
+"762","MN726808","Rabies lyssavirus",11806,"GenBank","Canis lupus familiaris","2016",Tanzania,
+"763","MN726809","Rabies lyssavirus",11545,"GenBank","Canis lupus familiaris","2016",Tanzania,
+"764","MN726815","Rabies lyssavirus",11869,"GenBank","Canis mesomelas","2015",Tanzania,
+"765","MN726817","Rabies lyssavirus",11633,"GenBank","Bos taurus","2016",Tanzania,
+"766","MN726818","Rabies lyssavirus",11869,"GenBank","Canis lupus familiaris","2015",Tanzania,
+"767","MN726820","Rabies lyssavirus",11819,"GenBank","Felis catus","2017",Tanzania,
+"768","MN726824","Rabies lyssavirus",11632,"GenBank","Canis lupus familiaris","2016",Tanzania,
+"769","MN726825","Rabies lyssavirus",11732,"GenBank","Canis mesomelas","2015",Tanzania,
+"770","MN726826","Rabies lyssavirus",11868,"GenBank","Canis lupus familiaris","2016",Tanzania,
+"771","MN726827","Rabies lyssavirus",11869,"GenBank","Canis lupus familiaris","2017",Tanzania,
+"772","MN726829","Rabies lyssavirus",11517,"GenBank","Canis lupus familiaris","2017",Tanzania,
+"773","MN726833","Rabies lyssavirus",11821,"GenBank","Canis lupus familiaris","2017",Tanzania,
+"774","MN726835","Rabies lyssavirus",11559,"GenBank","Canis lupus familiaris","2017",Tanzania,
+"775","KX148206","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1996",Tanzania,
+"776","KF155002","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2010",Tanzania,
+"777","KY765901","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2012",Tajikistan,
+"778","KF620487","Rabies lyssavirus",11923,"GenBank","Melogale","2012",Taiwan,
+"779","KF620488","Rabies lyssavirus",11923,"GenBank","Melogale","2012",Taiwan,
+"780","KF620489","Rabies lyssavirus",11923,"GenBank","Melogale","2013",Taiwan,
+"781","AB635373","Rabies lyssavirus",11926,"GenBank","Paradoxurus zeylonensis","2009",Sri Lanka,Moneragala
+"782","AB569299","Rabies lyssavirus",11926,"GenBank","Homo sapiens","2008",Sri Lanka,Gampaha
+"783","KC171643","Rabies lyssavirus",11928,"GenBank","Bos taurus","2008",South Korea,
+"784","KC171644","Rabies lyssavirus",11928,"GenBank","Nyctereutes procyonoides","2004",South Korea,
+"785","KC171645","Rabies lyssavirus",11928,"GenBank","Nyctereutes procyonoides","1999",South Korea,
+"786","MT454631","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2015",South Africa,
+"787","MT454632","Rabies lyssavirus",11902,"GenBank","Proteles cristata","2015",South Africa,
+"788","MT454633","Rabies lyssavirus",11908,"GenBank","Proteles cristata","2015",South Africa,
+"789","MT454634","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2015",South Africa,
+"790","MT454635","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2015",South Africa,
+"791","MT454636","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2016",South Africa,
+"792","MT454637","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2016",South Africa,
+"793","MT454638","Rabies lyssavirus",11923,"GenBank","Otocyon megalotis","2016",South Africa,
+"794","MT454639","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2016",South Africa,
+"795","MT454640","Rabies lyssavirus",11923,"GenBank","Otocyon megalotis","2016",South Africa,
+"796","MT454641","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2016",South Africa,
+"797","MT454642","Rabies lyssavirus",11923,"GenBank","Proteles cristata","2016",South Africa,
+"798","MT454643","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2017",South Africa,
+"799","MT454644","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2017",South Africa,
+"800","MT454645","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2017",South Africa,
+"801","MT454646","Rabies lyssavirus",11922,"GenBank","Canis mesomelas","2017",South Africa,
+"802","MT454647","Rabies lyssavirus",11922,"GenBank","Canis mesomelas","2017",South Africa,
+"803","MT454648","Rabies lyssavirus",11923,"GenBank","Canis mesomelas","2017",South Africa,
+"804","MT454649","Rabies lyssavirus",11922,"GenBank","Canis mesomelas","2017",South Africa,
+"805","MT454650","Rabies lyssavirus",11922,"GenBank","Otocyon megalotis","2017",South Africa,
+"806","MT454651","Rabies lyssavirus",11922,"GenBank","Canis mesomelas","2017",South Africa,
+"807","MT454652","Rabies lyssavirus",11923,"GenBank","Canis mesomelas","2017",South Africa,
+"808","MT454653","Rabies lyssavirus",11923,"GenBank","Canis mesomelas","2017",South Africa,
+"809","MT454654","Rabies lyssavirus",11923,"GenBank","Canis mesomelas","2017",South Africa,
+"810","MG458307","Rabies lyssavirus",11922,"GenBank","Felis catus","2000",South Africa,
+"811","MG458308","Rabies lyssavirus",11926,"GenBank","Herpestidae","2000",South Africa,
+"812","MG458318","Rabies lyssavirus",11918,"GenBank","Homo sapiens","2008",South Africa,
+"813","KX148103","Rabies lyssavirus",11922,"GenBank","Homo sapiens","1981",South Africa,
+"814","KX148220","Rabies lyssavirus",11805,"GenBank","Herpestidae","2013",South Africa,
+"815","KX148221","Rabies lyssavirus",11805,"GenBank","Sciuridae","2014",South Africa,
+"816","KX148222","Rabies lyssavirus",11804,"GenBank","Herpestidae","2014",South Africa,
+"817","KX148223","Rabies lyssavirus",11802,"GenBank","Feliformia","2000",South Africa,
+"818","KT336432","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",South Africa,
+"819","KT336436","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",South Africa,
+"820","KT336437","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2012",South Africa,
+"821","KX148198","Rabies lyssavirus",11804,"GenBank","Canis lupus familiaris","1993",Somalia,
+"822","KX148199","Rabies lyssavirus",11804,"GenBank","Canis","1993",Somalia,
+"823","KX148129","Rabies lyssavirus",11801,"GenBank","Canidae","1994",Slovenia,
+"824","KX148130","Rabies lyssavirus",11801,"GenBank","Canidae","1994",Slovenia,
+"825","KX148131","Rabies lyssavirus",11801,"GenBank","Canidae","1994",Slovenia,
+"826","KX148132","Rabies lyssavirus",11801,"GenBank","Canidae","1994",Slovenia,
+"827","KX148144","Rabies lyssavirus",11801,"GenBank","Canidae","1994",Slovenia,
+"828","MG458309","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","1978",Serbia,
+"829","MG458310","Rabies lyssavirus",11923,"GenBank","Bos taurus","1986",Serbia,
+"830","MG458311","Rabies lyssavirus",11923,"GenBank","Canidae","1998",Serbia,
+"831","MG458312","Rabies lyssavirus",11923,"GenBank","Canidae","1997",Serbia,
+"832","KX148140","Rabies lyssavirus",11801,"GenBank","Canidae","1986",Serbia,
+"833","KX148161","Rabies lyssavirus",11801,"GenBank","Canidae","1972",Serbia,
+"834","KX148238","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1991",Senegal,
+"835","KX148239","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1992",Senegal,
+"836","KX148168","Rabies lyssavirus",11801,"GenBank","Canidae","1987",Saudi Arabia,
+"837","KX148172","Rabies lyssavirus",11801,"GenBank","Equus caballus","1987",Saudi Arabia,
+"838","KX148173","Rabies lyssavirus",11801,"GenBank","Canidae","1997",Saudi Arabia,
+"839","KX148174","Rabies lyssavirus",11801,"GenBank","Canidae","1998",Saudi Arabia,
+"840","KX148175","Rabies lyssavirus",11801,"GenBank","Canidae","1998",Saudi Arabia,
+"841","KX148176","Rabies lyssavirus",11801,"GenBank","Canidae","2004",Saudi Arabia,
+"842","KX148205","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1994",Rwanda,
+"843","KP997032","Rabies lyssavirus",11873,"GenBank","Ursus arctos","2014",Russia, Primorsky Krai
+"844","KC595280","Rabies lyssavirus",11796,"GenBank","Vulpes vulpes","2011",Russia, Lipetsk region
+"845","KC595281","Rabies lyssavirus",11799,"GenBank","Felis catus","2011",Russia, Lipetsk region
+"846","KC595282","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2011",Russia, Lipetsk region
+"847","KC595283","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2011",Russia, Lipetsk region
+"848","KT728348","Rabies lyssavirus",11873,"GenBank","Homo sapiens","2003",Russia, Astrakhan region
+"849","KT728349","Rabies lyssavirus",11873,"GenBank","Homo sapiens","2003",Russia, Astrakhan region
+"850","KY860613","Rabies lyssavirus",11926,"GenBank","Nyctereutes procyonoides","1989",Russia,
+"851","MG458313","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1996",Russia,
+"852","MF630920","Rabies lyssavirus",11893,"GenBank","","2016",Russia,
+"853","KX954123","Rabies lyssavirus",11851,"GenBank","Vulpes lagopus","2016",Russia,
+"854","KM198893","Rabies lyssavirus",11932,"GenBank","","",Russia,
+"855","JQ944704","Rabies lyssavirus",11923,"GenBank","Nyctereutes procyonoides","2009",Russia,
+"856","JQ944705","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2008",Russia,
+"857","JQ944706","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2008",Russia,
+"858","JQ944707","Rabies lyssavirus",11927,"GenBank","Cervidae","2008",Russia,
+"859","JQ944708","Rabies lyssavirus",11914,"GenBank","Vulpes vulpes","2008",Russia,
+"860","EF542830","Rabies lyssavirus",11932,"GenBank","","",Russia,
+"861","MN534896","Rabies lyssavirus",11874,"GenBank","Camelus","2018",Qatar,
+"862","MN534897","Rabies lyssavirus",11874,"GenBank","Canidae","2018",Qatar,
+"863","MF197744","Rabies lyssavirus",11964,"GenBank","Eptesicus serotinus","2014",Poland, Pomerania
+"864","MF197741","Rabies lyssavirus",11802,"GenBank","Canidae","2008",Poland, Podlaskie voievodeship
+"865","MF197742","Rabies lyssavirus",11802,"GenBank","Canidae","2014",Poland, Podlaskie voievodeship
+"866","MF197743","Rabies lyssavirus",11801,"GenBank","Canidae","2010",Poland, Lesser Poland
+"867","MF197745","Rabies lyssavirus",11966,"GenBank","Eptesicus serotinus","1998",Poland, Kuyavia-Pomerania
+"868","KX148114","Rabies lyssavirus",11802,"GenBank","Canidae","1995",Poland,
+"869","KX148115","Rabies lyssavirus",11802,"GenBank","Canidae","1996",Poland,
+"870","KX148116","Rabies lyssavirus",11802,"GenBank","Canidae","1996",Poland,
+"871","KX148117","Rabies lyssavirus",11802,"GenBank","Canidae","1997",Poland,
+"872","KX148118","Rabies lyssavirus",11803,"GenBank","Nyctereutes procyonoides","1994",Poland,
+"873","KX148119","Rabies lyssavirus",11800,"GenBank","Canidae","1993",Poland,
+"874","KX148120","Rabies lyssavirus",11800,"GenBank","Nyctereutes procyonoides","1993",Poland,
+"875","KX148121","Rabies lyssavirus",11800,"GenBank","Canidae","1993",Poland,
+"876","KX148141","Rabies lyssavirus",11801,"GenBank","Canidae","1992",Poland,
+"877","KX148142","Rabies lyssavirus",11801,"GenBank","Canidae","1994",Poland,
+"878","KX148150","Rabies lyssavirus",11801,"GenBank","Nyctereutes procyonoides","1986",Poland,
+"879","KX148151","Rabies lyssavirus",11801,"GenBank","Canidae","1996",Poland,
+"880","KX148152","Rabies lyssavirus",11802,"GenBank","Nyctereutes procyonoides","1996",Poland,
+"881","KX148153","Rabies lyssavirus",11801,"GenBank","Nyctereutes procyonoides","1996",Poland,
+"882","KX148154","Rabies lyssavirus",11801,"GenBank","Nyctereutes procyonoides","1997",Poland,
+"883","MN857171","Rabies lyssavirus",11922,"GenBank","Feliformia","2019",Philippines, San Miguel, Bulacan
+"884","MN857168","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2019",Philippines, Quezon City
+"885","MN857169","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2019",Philippines, Pasay City
+"886","MN857167","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2019",Philippines, Caloocan City
+"887","MN857170","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2019",Philippines, Angono, Rizal
+"888","MN726836","Rabies lyssavirus",11863,"GenBank","Canis lupus familiaris","2013",Philippines,
+"889","MN726837","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2013",Philippines,
+"890","MN726838","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2013",Philippines,
+"891","MN726839","Rabies lyssavirus",11863,"GenBank","Canis lupus familiaris","2015",Philippines,
+"892","MN726840","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2015",Philippines,
+"893","MN726841","Rabies lyssavirus",11863,"GenBank","Canis lupus familiaris","2014",Philippines,
+"894","MN726842","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2019",Philippines,
+"895","MN726843","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2012",Philippines,
+"896","MN726844","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2014",Philippines,
+"897","MN726845","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2012",Philippines,
+"898","MN726846","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2015",Philippines,
+"899","MN726847","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2017",Philippines,
+"900","MN726848","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2016",Philippines,
+"901","MN726850","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2015",Philippines,
+"902","MN726851","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2014",Philippines,
+"903","MN726852","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2018",Philippines,
+"904","MN726853","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2012",Philippines,
+"905","MN726854","Rabies lyssavirus",11737,"GenBank","Canis lupus familiaris","2015",Philippines,
+"906","MN726855","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2016",Philippines,
+"907","MN726856","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2012",Philippines,
+"908","MN726857","Rabies lyssavirus",11553,"GenBank","Canis lupus familiaris","2016",Philippines,
+"909","MN726858","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2016",Philippines,
+"910","MN726859","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2015",Philippines,
+"911","MN726860","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2018",Philippines,
+"912","MN726861","Rabies lyssavirus",11791,"GenBank","Canis lupus familiaris","2015",Philippines,
+"913","MN726862","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2013",Philippines,
+"914","MN726863","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2015",Philippines,
+"915","MN726864","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2016",Philippines,
+"916","MN726865","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2014",Philippines,
+"917","MN726866","Rabies lyssavirus",11765,"GenBank","Canis lupus familiaris","2014",Philippines,
+"918","MN726867","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2012",Philippines,
+"919","MN726868","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2016",Philippines,
+"920","MN726869","Rabies lyssavirus",11653,"GenBank","Felis catus","2013",Philippines,
+"921","MN726870","Rabies lyssavirus",11863,"GenBank","Canis lupus familiaris","2014",Philippines,
+"922","MN726871","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2013",Philippines,
+"923","MN726872","Rabies lyssavirus",11863,"GenBank","Canis lupus familiaris","2017",Philippines,
+"924","MN726873","Rabies lyssavirus",11863,"GenBank","Canis lupus familiaris","2014",Philippines,
+"925","MN726874","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2012",Philippines,
+"926","MN726875","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2018",Philippines,
+"927","MN726876","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2018",Philippines,
+"928","MN726877","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2015",Philippines,
+"929","MN726879","Rabies lyssavirus",11863,"GenBank","Canis lupus familiaris","2012",Philippines,
+"930","MN726880","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2019",Philippines,
+"931","MN726881","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2015",Philippines,
+"932","MN726882","Rabies lyssavirus",11653,"GenBank","Canis lupus familiaris","2019",Philippines,
+"933","KX148259","Rabies lyssavirus",11803,"GenBank","Canis lupus familiaris","1994",Philippines,
+"934","KX148260","Rabies lyssavirus",11804,"GenBank","Canis lupus familiaris","2004",Philippines,
+"935","KX148261","Rabies lyssavirus",11800,"GenBank","Canis lupus familiaris","1994",Philippines,
+"936","KX148262","Rabies lyssavirus",11800,"GenBank","Canis lupus familiaris","1994",Philippines,
+"937","KX148263","Rabies lyssavirus",11800,"GenBank","Canis lupus familiaris","1994",Philippines,
+"938","HE802675","Rabies lyssavirus",11928,"GenBank","Bos taurus","2010",Pakistan,
+"939","HE802676","Rabies lyssavirus",11928,"GenBank","Bos taurus","2007",Pakistan,
+"940","KX148169","Rabies lyssavirus",11801,"GenBank","Camelus","1990",Oman,
+"941","KX148170","Rabies lyssavirus",11801,"GenBank","Canidae","1990",Oman,
+"942","KX148201","Rabies lyssavirus",11805,"GenBank","Canis lupus familiaris","1986",Nigeria,
+"943","KC196743","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2011",Nigeria,
+"944","KX148229","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1990",Niger,
+"945","KX148231","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1990",Niger,
+"946","MN534894","Rabies lyssavirus",11802,"GenBank","Homo sapiens","2018",Nepal,
+"947","MN534895","Rabies lyssavirus",11792,"GenBank","Homo sapiens","2019",Nepal,
+"948","MG458320","Rabies lyssavirus",11927,"GenBank","Homo sapiens","2012",Nepal,
+"949","KX148108","Rabies lyssavirus",11925,"GenBank","Bos taurus","2011",Nepal,
+"950","KX148228","Rabies lyssavirus",11810,"GenBank","Canis lupus familiaris","1998",Nepal,
+"951","KX148245","Rabies lyssavirus",11803,"GenBank","Bubalus bubalis","2009",Nepal,
+"952","JX473841","Rabies lyssavirus",11923,"GenBank","Tragelaphus strepsiceros","2009",Namibia, Otjozondjupa, Grootfontein
+"953","JX473838","Rabies lyssavirus",11923,"GenBank","Canis","2009",Namibia, Kunene, Etosha National Park
+"954","JX473839","Rabies lyssavirus",11923,"GenBank","Canis","2009",Namibia, Kunene, Etosha National Park
+"955","JX473840","Rabies lyssavirus",11923,"GenBank","Tragelaphus strepsiceros","2009",Namibia, Khomas, Windhoek
+"956","KX148204","Rabies lyssavirus",11800,"GenBank","Canis lupus familiaris","1992",Namibia,
+"957","KX148247","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1999",Myanmar,
+"958","KX148248","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1999",Myanmar,
+"959","KX148203","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1986",Mozambique,
+"960","KX148193","Rabies lyssavirus",11805,"GenBank","Canis lupus familiaris","2008",Morocco,
+"961","KX148194","Rabies lyssavirus",11805,"GenBank","Canis lupus familiaris","1989",Morocco,
+"962","KX148195","Rabies lyssavirus",11804,"GenBank","Canis lupus familiaris","2004",Morocco,
+"963","KX148196","Rabies lyssavirus",11804,"GenBank","Canis lupus familiaris","1990",Morocco,
+"964","KF155001","Rabies lyssavirus",11926,"GenBank","Bos taurus","2009",Morocco,
+"965","KX148104","Rabies lyssavirus",11923,"GenBank","Bos taurus","1978",Montenegro,
+"966","KX708499","Rabies lyssavirus",11794,"GenBank","Canis lupus familiaris","2015",Mexico, Yucatan
+"967","KX708500","Rabies lyssavirus",11794,"GenBank","Canis lupus familiaris","2014",Mexico, Yucatan
+"968","KX708501","Rabies lyssavirus",11794,"GenBank","Canis lupus familiaris","2013",Mexico, Yucatan
+"969","KX708504","Rabies lyssavirus",11798,"GenBank","Canis lupus familiaris","2008",Mexico, Yucatan
+"970","KX708502","Rabies lyssavirus",11793,"GenBank","Canis lupus familiaris","2012",Mexico, Chiapas
+"971","KX708503","Rabies lyssavirus",11793,"GenBank","Canis lupus familiaris","2014",Mexico, Chiapas
+"972","KX148102","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","1991",Mexico,
+"973","KX148110","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1991",Mexico,
+"974","KX148111","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1991",Mexico,
+"975","KX148112","Rabies lyssavirus",11802,"GenBank","Homo sapiens","1991",Mexico,
+"976","KT006769","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2013",Mexico,
+"977","JQ685929","Rabies lyssavirus",11923,"GenBank","Spilogale putorius","2009",Mexico,
+"978","JQ685936","Rabies lyssavirus",11883,"GenBank","Bos taurus","2009",Mexico,
+"979","JQ685953","Rabies lyssavirus",11899,"GenBank","Homo sapiens","2009",Mexico,
+"980","JQ685954","Rabies lyssavirus",11923,"GenBank","Spilogale putorius","2007",Mexico,
+"981","JQ685963","Rabies lyssavirus",11922,"GenBank","Nasua narica","2009",Mexico,
+"982","JQ685975","Rabies lyssavirus",11925,"GenBank","Spilogale putorius","2009",Mexico,
+"983","HQ450386","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","",Mexico,
+"984","KX148236","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1993",Mauritania,
+"985","KX148237","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1993",Mauritania,
+"986","KX148209","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","2004",Madagascar,
+"987","KX148210","Rabies lyssavirus",11801,"GenBank","Homo sapiens","1998",Madagascar,
+"988","KX148211","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1986",Madagascar,
+"989","AB981664","Rabies lyssavirus",11924,"GenBank","Canis lupus","2011",Laos, Vientiane Capital
+"990","AB981663","Rabies lyssavirus",11924,"GenBank","Canis lupus","2011",Laos, Champasak
+"991","KX148255","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1999",Laos,
+"992","KX148256","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","2002",Laos,
+"993","KX148257","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","2002",Laos,
+"994","KX148258","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","2002",Laos,
+"995","MN726805","Rabies lyssavirus",11846,"GenBank","Ovis aries","2017",Kenya,
+"996","MN726810","Rabies lyssavirus",11589,"GenBank","Homo sapiens","2015",Kenya,
+"997","MN726812","Rabies lyssavirus",11847,"GenBank","Canis lupus familiaris","2017",Kenya,
+"998","MN726814","Rabies lyssavirus",11846,"GenBank","Feliformia","2018",Kenya,
+"999","MN726816","Rabies lyssavirus",11598,"GenBank","Capra hircus","2018",Kenya,
+"1000","MN726819","Rabies lyssavirus",11846,"GenBank","Homo sapiens","2013",Kenya,
+"1001","MN726821","Rabies lyssavirus",11598,"GenBank","Bos taurus","2018",Kenya,
+"1002","MN726830","Rabies lyssavirus",11846,"GenBank","Bos taurus","2018",Kenya,
+"1003","MN726831","Rabies lyssavirus",11846,"GenBank","Bos taurus","2013",Kenya,
+"1004","KX148207","Rabies lyssavirus",11801,"GenBank","Homo sapiens","2014",Kenya,
+"1005","LC571945","Rabies lyssavirus",11923,"GenBank","Homo sapiens","2006",Japan,
+"1006","LC553558","Rabies lyssavirus",11927,"GenBank","Canis lupus","",Japan,
+"1007","KX148177","Rabies lyssavirus",11801,"GenBank","Canidae","1996",Israel,
+"1008","KX148178","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1996",Israel,
+"1009","KX148179","Rabies lyssavirus",11801,"GenBank","Canis","1996",Israel,
+"1010","KX148180","Rabies lyssavirus",11801,"GenBank","Canidae","1993",Israel,
+"1011","KX148181","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1996",Israel,
+"1012","KX148182","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1996",Israel,
+"1013","KX148183","Rabies lyssavirus",11801,"GenBank","Canidae","1993",Israel,
+"1014","KX148184","Rabies lyssavirus",11801,"GenBank","Bos taurus","1996",Israel,
+"1015","KX148191","Rabies lyssavirus",11802,"GenBank","Canis","1993",Israel,
+"1016","KX148192","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1993",Israel,
+"1017","KF154998","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","1950",Israel,
+"1018","KF155000","Rabies lyssavirus",11923,"GenBank","Bos taurus","2010",Iraq,
+"1019","MK760721","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2013",Iran, Zanjan, Tarom
+"1020","MK760745","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, Zanjan, Khodabandeh
+"1021","MK760737","Rabies lyssavirus",11722,"GenBank","Canis","2013",Iran, Zanjan, Ijrud
+"1022","MK760668","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2008",Iran, Yazd, Khatam
+"1023","MK760740","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2013",Iran, West Azarbaijan, Shahin dezh
+"1024","MK760669","Rabies lyssavirus",11722,"GenBank","Canis","2008",Iran, West Azarbaijan, Salmas
+"1025","MK760736","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, West Azarbaijan, Poldasht
+"1026","MK760670","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2008",Iran, West Azarbaijan, Naghadeh
+"1027","MK760674","Rabies lyssavirus",11722,"GenBank","Canidae","2008",Iran, West Azarbaijan, Mahabad
+"1028","MK760741","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2013",Iran, West Azarbaijan, Mahabad
+"1029","MK760711","Rabies lyssavirus",11723,"GenBank","Canis lupus familiaris","2013",Iran, West Azarbaijan, Khoy
+"1030","MK760716","Rabies lyssavirus",11723,"GenBank","Canis lupus familiaris","2013",Iran, West Azarbaijan, Khoy
+"1031","MK760743","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, West Azarbaijan, Khoy
+"1032","MK760714","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2013",Iran, West Azarbaijan, Chaldoran
+"1033","MK760718","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2013",Iran, West Azarbaijan, Chaldoran
+"1034","MK760671","Rabies lyssavirus",11722,"GenBank","Canidae","2008",Iran, West Azarbaijan, Bukan
+"1035","MK760694","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2009",Iran, West Azarbaijan, Bukan
+"1036","MK760677","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2009",Iran, Tehran, Shahriyar
+"1037","MK760702","Rabies lyssavirus",11729,"GenBank","Canis lupus familiaris","2012",Iran, South Khorasan, Zirkooh
+"1038","MK760761","Rabies lyssavirus",11725,"GenBank","Canis lupus familiaris","2014",Iran, Sistan and Baluchestan, Mirjaveh
+"1039","MK760755","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, Semnan, Damghan
+"1040","MK760729","Rabies lyssavirus",11727,"GenBank","Canis lupus familiaris","2014",Iran, Razavi Khorasan, Zaveh
+"1041","MK760700","Rabies lyssavirus",11722,"GenBank","Canidae","2012",Iran, Razavi Khorasan, Sabzevar
+"1042","MK760734","Rabies lyssavirus",11722,"GenBank","Canidae","2013",Iran, Razavi Khorasan, Sabzevar
+"1043","MK760735","Rabies lyssavirus",11727,"GenBank","Canis lupus familiaris","2014",Iran, Razavi Khorasan, Mashhad
+"1044","MK760712","Rabies lyssavirus",11722,"GenBank","Canis","2013",Iran, Razavi Khorasan, Bardeskan
+"1045","MK760681","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2009",Iran, Qom, Salafghegan
+"1046","MK760703","Rabies lyssavirus",11722,"GenBank","Canis","2012",Iran, Qom, Qom
+"1047","MK760704","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2012",Iran, Qom, Qom
+"1048","MK760763","Rabies lyssavirus",11722,"GenBank","Canis","2014",Iran, Qom, Qom
+"1049","MK760765","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, Qom, Qom
+"1050","MK760708","Rabies lyssavirus",11722,"GenBank","Canis","2012",Iran, Qazvin, Takestan
+"1051","MK760701","Rabies lyssavirus",11722,"GenBank","Canidae","2012",Iran, Qazvin, Qazvin
+"1052","MK760715","Rabies lyssavirus",11723,"GenBank","Canis","2013",Iran, Qazvin, Avaj
+"1053","MK760707","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2012",Iran, North Khorasan, Mado Smalghan
+"1054","MK760706","Rabies lyssavirus",11722,"GenBank","Canis","2012",Iran, North Khorasan, Jajrom
+"1055","MK760723","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2013",Iran, North Khorasan, Faruj
+"1056","MK760753","Rabies lyssavirus",11722,"GenBank","Canidae","2014",Iran, North Khorasan, Bojnourd
+"1057","MK760731","Rabies lyssavirus",11723,"GenBank","Canis lupus familiaris","2014",Iran, North Khorasan, Ashkhaneh
+"1058","MK760709","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2012",Iran, Mazandaran, Savadkooh
+"1059","MK760766","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2015",Iran, Mazandaran, Behshahr
+"1060","MK760696","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2012",Iran, Markazi, Arak
+"1061","MK760697","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2012",Iran, Markazi, Arak
+"1062","MK760758","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, Markazi, Arak
+"1063","MK760683","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2009",Iran, Lorestan, Khorramabad
+"1064","MK760750","Rabies lyssavirus",11722,"GenBank","Martes","2014",Iran, Lorestan, Khorramabad
+"1065","MK760673","Rabies lyssavirus",11722,"GenBank","Canis","2008",Iran, Lorestan, Borujerd
+"1066","MK760689","Rabies lyssavirus",11722,"GenBank","Canidae","2010",Iran, Lorestan, Borujerd
+"1067","MK760705","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2012",Iran, Lorestan, Borujerd
+"1068","MK760720","Rabies lyssavirus",11722,"GenBank","Canis","2013",Iran, Kurdistan, Saqqez
+"1069","MK760754","Rabies lyssavirus",11723,"GenBank","Canis lupus familiaris","2014",Iran, Kurdistan, Saqqez
+"1070","MK760693","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2009",Iran, Kurdistan, Sanandaj
+"1071","MK760726","Rabies lyssavirus",11722,"GenBank","Canis","2013",Iran, Kurdistan, Kamyaran
+"1072","MK760687","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2009",Iran, Kurdistan, Gharveh
+"1073","MK760699","Rabies lyssavirus",11722,"GenBank","Canidae","2012",Iran, Kurdistan, Bijar
+"1074","MK760675","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2008",Iran, Khuzestan, Shoshtar
+"1075","MK760760","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, Khuzestan, Shoshtar
+"1076","MK760684","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2009",Iran, Khuzestan, Shooshdanial
+"1077","MK760690","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2010",Iran, Khuzestan, Gotvand
+"1078","MK760747","Rabies lyssavirus",11722,"GenBank","Canis","2014",Iran, Khuzestan, Dezful
+"1079","MK760756","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, Khuzestan, Ahvaz
+"1080","MK760698","Rabies lyssavirus",11722,"GenBank","Canis","2012",Iran, Kermanshah, Songhor
+"1081","MK760757","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, Kermanshah, Sarepol-e Zahab
+"1082","MK760682","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2009",Iran, Kermanshah, Kermanshah
+"1083","MK760710","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2013",Iran, Kermanshah, Kermanshah
+"1084","MK760672","Rabies lyssavirus",11723,"GenBank","Ovis aries","2008",Iran, Kerman, Shahr-e Babak
+"1085","MK760678","Rabies lyssavirus",11722,"GenBank","Canidae","2009",Iran, Kerman, Shahr-e Babak
+"1086","MK760692","Rabies lyssavirus",11722,"GenBank","Canidae","2009",Iran, Kerman, Kerman
+"1087","MK760667","Rabies lyssavirus",11722,"GenBank","Canis","2008",Iran, Kerman, Bardsir
+"1088","MK760686","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2009",Iran, Isfahan, Samiram
+"1089","MK760764","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, Isfahan, Isfahan
+"1090","MK760739","Rabies lyssavirus",11723,"GenBank","Canis","2013",Iran, Isfahan, Falavarjan
+"1091","MK760719","Rabies lyssavirus",11722,"GenBank","Canis","2013",Iran, Hormozgan, Hajiabad
+"1092","MK760717","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2013",Iran, Hamadan, Razan
+"1093","MK760748","Rabies lyssavirus",11722,"GenBank","Canis","2014",Iran, Hamadan, Kabudarahang
+"1094","MK760676","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2009",Iran, Hamadan, Hamadan
+"1095","MK760722","Rabies lyssavirus",11723,"GenBank","Canis lupus familiaris","2013",Iran, Hamadan, Hamadan
+"1096","MK760738","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, Hamadan, Hamadan
+"1097","MK760679","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2008",Iran, Hamadan, Asadabad
+"1098","MK760744","Rabies lyssavirus",11722,"GenBank","Canis","2014",Iran, Goolestan, Gorgan
+"1099","MK760767","Rabies lyssavirus",11722,"GenBank","Canis","2015",Iran, Gilan, Roodbar
+"1100","MK760695","Rabies lyssavirus",11722,"GenBank","Canidae","2011",Iran, Gilan, Masal
+"1101","MK760732","Rabies lyssavirus",11723,"GenBank","Canis lupus familiaris","2014",Iran, Fars, Shiraz
+"1102","MK760680","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2008",Iran, Fars, Neyriz
+"1103","MK760691","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2009",Iran, Fars, Farashband
+"1104","MK760727","Rabies lyssavirus",11722,"GenBank","Canidae","2013",Iran, Fars, Eqlid
+"1105","MK760728","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, Fars, Abadeh
+"1106","MK760724","Rabies lyssavirus",11722,"GenBank","Canidae","2013",Iran, East Azarbaijan, Takab
+"1107","MK760685","Rabies lyssavirus",11721,"GenBank","Canis lupus familiaris","2009",Iran, East Azarbaijan, Sarab
+"1108","MK760749","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, East Azarbaijan, Mianeh
+"1109","MK760752","Rabies lyssavirus",11722,"GenBank","Canis","2014",Iran, East Azarbaijan, Mianeh
+"1110","MK760762","Rabies lyssavirus",11722,"GenBank","Canis","2014",Iran, East Azarbaijan, Mianeh
+"1111","MK760746","Rabies lyssavirus",11723,"GenBank","Canis lupus familiaris","2014",Iran, East Azarbaijan, Marand
+"1112","MK760751","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, East Azarbaijan, Jolfa
+"1113","MK760713","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2013",Iran, East Azarbaijan, Heris
+"1114","MK760730","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, East Azarbaijan, Heris
+"1115","MK760725","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2013",Iran, East Azarbaijan, Azarshahr
+"1116","MK760688","Rabies lyssavirus",11722,"GenBank","Canis","2009",Iran, Chaharmahal and Bakhtiari, Lordegan
+"1117","MK760742","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, Ardabil, Khalkhal
+"1118","MK760759","Rabies lyssavirus",11723,"GenBank","Canidae","2014",Iran, Ardabil, Khalkhal
+"1119","MK760733","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2014",Iran, Alborz, Nazarabad
+"1120","KX148159","Rabies lyssavirus",11801,"GenBank","Ovis aries","1974",Iran,
+"1121","KX148185","Rabies lyssavirus",11801,"GenBank","Canis","1996",Iran,
+"1122","KX148186","Rabies lyssavirus",11801,"GenBank","Canis","1984",Iran,
+"1123","KX148187","Rabies lyssavirus",11801,"GenBank","Canis","1996",Iran,
+"1124","KX148188","Rabies lyssavirus",11801,"GenBank","Canis","1991",Iran,
+"1125","KX148189","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1985",Iran,
+"1126","KX148190","Rabies lyssavirus",11801,"GenBank","Canis","1976",Iran,
+"1127","KX148212","Rabies lyssavirus",11802,"GenBank","Canis","1993",Iran,
+"1128","KX148266","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","2003",Indonesia,
+"1129","KY775603","Rabies lyssavirus",11928,"GenBank","Boselaphus tragocamelus","2014",India,
+"1130","KY775604","Rabies lyssavirus",11928,"GenBank","Herpestidae","2014",India,
+"1131","KX148246","Rabies lyssavirus",11803,"GenBank","Homo sapiens","1997",India,
+"1132","EF437215","Rabies lyssavirus",11928,"GenBank","Homo sapiens","",India,
+"1133","MK598338","Rabies lyssavirus",11799,"GenBank","Vulpes vulpes","2006",Hungary,
+"1134","MK598339","Rabies lyssavirus",11799,"GenBank","Vulpes vulpes","2007",Hungary,
+"1135","MK598340","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2007",Hungary,
+"1136","MK598341","Rabies lyssavirus",11799,"GenBank","Vulpes vulpes","2008",Hungary,
+"1137","MK598342","Rabies lyssavirus",11799,"GenBank","Vulpes vulpes","2009",Hungary,
+"1138","MK598343","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2008",Hungary,
+"1139","MK598344","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2009",Hungary,
+"1140","MK598345","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2010",Hungary,
+"1141","MK598346","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2010",Hungary,
+"1142","MK598347","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2016",Hungary,
+"1143","MK598348","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2017",Hungary,
+"1144","MK598349","Rabies lyssavirus",11798,"GenBank","Capra hircus","2017",Hungary,
+"1145","MK598350","Rabies lyssavirus",11798,"GenBank","Capra hircus","2017",Hungary,
+"1146","MK598351","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1147","MK598352","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1148","MK598353","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1149","MK598354","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1150","MK598355","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1151","MK598356","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1152","MK598357","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1153","MK598358","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1154","MK598359","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1155","MK598360","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1156","MK598361","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1157","MK598362","Rabies lyssavirus",11798,"GenBank","Bos taurus","2013",Hungary,
+"1158","MK598363","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1159","MK598364","Rabies lyssavirus",11798,"GenBank","Bos taurus","2013",Hungary,
+"1160","MK598365","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1161","MK598366","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1162","MK598367","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1163","MK598368","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1164","MK598369","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1165","MK598370","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1166","MK598371","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1167","MK598372","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1168","MK598373","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1169","MK598374","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1170","MK598375","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1171","MK598376","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1172","MK598377","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1173","MK598378","Rabies lyssavirus",11798,"GenBank","Capra hircus","2014",Hungary,
+"1174","MK598379","Rabies lyssavirus",11798,"GenBank","Canis lupus familiaris","2014",Hungary,
+"1175","MK598380","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1176","MK598381","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1177","MK598382","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1178","MK598383","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1179","MK598384","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1180","MK598385","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1181","MK598386","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1182","MK598387","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1183","MK598388","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1184","MK598389","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2013",Hungary,
+"1185","MK598390","Rabies lyssavirus",11798,"GenBank","Cervidae","2014",Hungary,
+"1186","MK598391","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1187","MK598392","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1188","MK598393","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1189","MK598394","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1190","MK598395","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1191","MK598396","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1192","MK598397","Rabies lyssavirus",11798,"GenBank","Vulpes vulpes","2014",Hungary,
+"1193","MK598398","Rabies lyssavirus",11796,"GenBank","Felis catus","1996",Hungary,
+"1194","MK111075","Rabies lyssavirus",11874,"GenBank","Canidae","2015",Hungary,
+"1195","KX148136","Rabies lyssavirus",11800,"GenBank","Canidae","1993",Hungary,
+"1196","KX148137","Rabies lyssavirus",11800,"GenBank","Canidae","1993",Hungary,
+"1197","KX148138","Rabies lyssavirus",11801,"GenBank","Canidae","1993",Hungary,
+"1198","KX148139","Rabies lyssavirus",11800,"GenBank","Canidae","1993",Hungary,
+"1199","KX148143","Rabies lyssavirus",11802,"GenBank","Canidae","1993",Hungary,
+"1200","KX148160","Rabies lyssavirus",11801,"GenBank","Homo sapiens","1991",Hungary,
+"1201","EU293113","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","1990",Guyana,
+"1202","KX148244","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1990",Guinea,
+"1203","MG458319","Rabies lyssavirus",11925,"GenBank","Herpestidae","2012",Grenada,
+"1204","KX148105","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","1980",Greenland,
+"1205","LM645015","Rabies lyssavirus",11922,"GenBank","Vulpes lagopus","2006",Greenland,
+"1206","LM645016","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2006",Greenland,
+"1207","LM645017","Rabies lyssavirus",11919,"GenBank","Vulpes lagopus","2005",Greenland,
+"1208","LM645018","Rabies lyssavirus",11925,"GenBank","Vulpes lagopus","2006",Greenland,
+"1209","LM645019","Rabies lyssavirus",11916,"GenBank","Vulpes lagopus","2010",Greenland,
+"1210","LM645020","Rabies lyssavirus",11895,"GenBank","Vulpes lagopus","2007",Greenland,
+"1211","LM645021","Rabies lyssavirus",11914,"GenBank","Vulpes lagopus","2006",Greenland,
+"1212","LM645022","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2006",Greenland,
+"1213","LM645023","Rabies lyssavirus",11916,"GenBank","Vulpes lagopus","2006",Greenland,
+"1214","LM645024","Rabies lyssavirus",11916,"GenBank","Vulpes lagopus","2006",Greenland,
+"1215","LM645025","Rabies lyssavirus",11902,"GenBank","Vulpes lagopus","2006",Greenland,
+"1216","LM645026","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2006",Greenland,
+"1217","LM645027","Rabies lyssavirus",11924,"GenBank","Vulpes lagopus","2006",Greenland,
+"1218","LM645028","Rabies lyssavirus",11897,"GenBank","Vulpes lagopus","2006",Greenland,
+"1219","LM645029","Rabies lyssavirus",11924,"GenBank","Vulpes lagopus","2007",Greenland,
+"1220","LM645030","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2007",Greenland,
+"1221","LM645031","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2006",Greenland,
+"1222","LM645032","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2010",Greenland,
+"1223","LM645033","Rabies lyssavirus",11896,"GenBank","Vulpes lagopus","2010",Greenland,
+"1224","LM645034","Rabies lyssavirus",11923,"GenBank","Vulpes lagopus","2009",Greenland,
+"1225","LM645035","Rabies lyssavirus",11887,"GenBank","Vulpes lagopus","2010",Greenland,
+"1226","LM645036","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2010",Greenland,
+"1227","LM645037","Rabies lyssavirus",11920,"GenBank","Vulpes lagopus","2008",Greenland,
+"1228","LM645038","Rabies lyssavirus",11908,"GenBank","Vulpes lagopus","2009",Greenland,
+"1229","LM645039","Rabies lyssavirus",11907,"GenBank","Ovis aries","2009",Greenland,
+"1230","LM645040","Rabies lyssavirus",11917,"GenBank","Ovis aries","2009",Greenland,
+"1231","LM645041","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2008",Greenland,
+"1232","LM645042","Rabies lyssavirus",11893,"GenBank","Vulpes lagopus","2009",Greenland,
+"1233","LM645043","Rabies lyssavirus",11908,"GenBank","Vulpes lagopus","2010",Greenland,
+"1234","LM645044","Rabies lyssavirus",11929,"GenBank","Ovis aries","2011",Greenland,
+"1235","LM645045","Rabies lyssavirus",11919,"GenBank","Vulpes lagopus","2007",Greenland,
+"1236","LM645046","Rabies lyssavirus",11928,"GenBank","Felis catus","2006",Greenland,
+"1237","LM645047","Rabies lyssavirus",11920,"GenBank","Vulpes lagopus","2008",Greenland,
+"1238","LM645048","Rabies lyssavirus",11915,"GenBank","Vulpes lagopus","2005",Greenland,
+"1239","LM645049","Rabies lyssavirus",11918,"GenBank","Vulpes lagopus","2007",Greenland,
+"1240","LM645050","Rabies lyssavirus",11909,"GenBank","Vulpes lagopus","2007",Greenland,
+"1241","LM645051","Rabies lyssavirus",11919,"GenBank","Vulpes lagopus","2007",Greenland,
+"1242","LM645052","Rabies lyssavirus",11928,"GenBank","Vulpes lagopus","2006",Greenland,
+"1243","LM645053","Rabies lyssavirus",11921,"GenBank","Vulpes lagopus","2007",Greenland,
+"1244","LM645054","Rabies lyssavirus",11922,"GenBank","Ovis aries","2007",Greenland,
+"1245","LM645055","Rabies lyssavirus",11907,"GenBank","Vulpes lagopus","2006",Greenland,
+"1246","LM645056","Rabies lyssavirus",11880,"GenBank","Vulpes lagopus","2008",Greenland,
+"1247","KX036361","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1990",Greenland,
+"1248","KX036362","Rabies lyssavirus",11901,"GenBank","Vulpes lagopus","2001",Greenland,
+"1249","KX036363","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2002",Greenland,
+"1250","KX036364","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2002",Greenland,
+"1251","KX036365","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2002",Greenland,
+"1252","KX036366","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2002",Greenland,
+"1253","KX036367","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2002",Greenland,
+"1254","KX148113","Rabies lyssavirus",11802,"GenBank","Canidae","1991",Germany,
+"1255","KX148122","Rabies lyssavirus",11801,"GenBank","Canidae","1991",Germany,
+"1256","KX148123","Rabies lyssavirus",11801,"GenBank","Canidae","1991",Germany,
+"1257","KX148124","Rabies lyssavirus",11801,"GenBank","Canidae","1991",Germany,
+"1258","KX148135","Rabies lyssavirus",11801,"GenBank","Canidae","1991",Germany,
+"1259","LN879481","Rabies lyssavirus",11922,"GenBank","Vulpes vulpes","1998",Germany,
+"1260","EU886631","Rabies lyssavirus",11907,"GenBank","Vulpes vulpes","2001",Germany,
+"1261","EU886632","Rabies lyssavirus",11907,"GenBank","Vulpes vulpes","2002",Germany,
+"1262","EU886634","Rabies lyssavirus",11907,"GenBank","Vulpes vulpes","2004",Germany,
+"1263","EU886635","Rabies lyssavirus",11907,"GenBank","Vulpes vulpes","2005",Germany,
+"1264","AY956319","Rabies lyssavirus",11928,"GenBank","","",Germany,
+"1265","KX148202","Rabies lyssavirus",11804,"GenBank","Canis lupus familiaris","1995",Gabon,
+"1266","KX148100","Rabies lyssavirus",11922,"GenBank","Stenodermatinae","2009",French Guiana,
+"1267","KX148268","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1990",French Guiana,
+"1268","KU523255","Rabies lyssavirus",11922,"GenBank","Desmodus rotundus","2010",French Guiana,
+"1269","MG011654","Rabies lyssavirus",11889,"GenBank","Homo sapiens","2016",France,
+"1270","KX148126","Rabies lyssavirus",11801,"GenBank","Canidae","1996",France,
+"1271","KX148127","Rabies lyssavirus",11801,"GenBank","Canidae","1991",France,
+"1272","KX148128","Rabies lyssavirus",11801,"GenBank","Canidae","1992",France,
+"1273","KX148134","Rabies lyssavirus",11801,"GenBank","Canidae","1994",France,
+"1274","EU293115","Rabies lyssavirus",11923,"GenBank","Canidae","1991",France,
+"1275","KX148146","Rabies lyssavirus",11801,"GenBank","Canidae","1993",Finland,
+"1276","KX148147","Rabies lyssavirus",11801,"GenBank","Nyctereutes procyonoides","1988",Finland,
+"1277","KX148200","Rabies lyssavirus",11807,"GenBank","Canis lupus familiaris","1988",Ethiopia,
+"1278","KP723638","Rabies lyssavirus",11926,"GenBank","Canis simensis","2014",Ethiopia,
+"1279","JQ944709","Rabies lyssavirus",11927,"GenBank","","2008",Ethiopia,
+"1280","KX148148","Rabies lyssavirus",11801,"GenBank","Canidae","1992",Estonia,
+"1281","KX148149","Rabies lyssavirus",11801,"GenBank","Nyctereutes procyonoides","1991",Estonia,
+"1282","KX148155","Rabies lyssavirus",11801,"GenBank","Canidae","1993",Estonia,
+"1283","KX148156","Rabies lyssavirus",11802,"GenBank","Nyctereutes procyonoides","1991",Estonia,
+"1284","KX148157","Rabies lyssavirus",11801,"GenBank","Nyctereutes procyonoides","1993",Estonia,
+"1285","KX148158","Rabies lyssavirus",11801,"GenBank","Canidae","1993",Estonia,
+"1286","KF154997","Rabies lyssavirus",11923,"GenBank","Nyctereutes procyonoides","",Estonia,
+"1287","MK760769","Rabies lyssavirus",11723,"GenBank","Equus asinus","2009",Egypt, Wady El- Natroon, El Behira
+"1288","MK760768","Rabies lyssavirus",11722,"GenBank","Canis lupus familiaris","2007",Egypt, Berket El-Sabea, Menofiya
+"1289","MK760770","Rabies lyssavirus",11725,"GenBank","Canis lupus familiaris","2009",Egypt, Berket El-Sabea, Menofiya
+"1290","MG458315","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","1998",Egypt,
+"1291","MG458316","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","1998",Egypt,
+"1292","MG458317","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","1999",Egypt,
+"1293","KX148101","Rabies lyssavirus",11923,"GenBank","Homo sapiens","1979",Egypt,
+"1294","MG458306","Rabies lyssavirus",11924,"GenBank","Canidae","",Czech Republic,
+"1295","KX148232","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1992",Cote d'Ivoire,
+"1296","KX148233","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1992",Cote d'Ivoire,
+"1297","KX148235","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","2001",Cote d'Ivoire,
+"1298","GU358653","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","1994",China,Guangxi
+"1299","FJ959397","Rabies lyssavirus",11925,"GenBank","","1956",China, Zibo, Shandong Province
+"1300","MN186250","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2018",China, Yizhou, Guangxi
+"1301","KJ466147","Rabies lyssavirus",11924,"GenBank","","",China, Shenzhen, Guangdong Province
+"1302","JQ970487","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2009",China, Shanxi Province
+"1303","MN186249","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2018",China, Shanglin, Guangxi
+"1304","GU345748","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2006",China, Shanghai
+"1305","JQ970486","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2007",China, Shandong Province
+"1306","EF564174","Rabies lyssavirus",11923,"GenBank","Homo sapiens","1956",China, Shandong Province
+"1307","GU345747","Rabies lyssavirus",11908,"GenBank","Homo sapiens","1986",China, Ningxia
+"1308","DQ875051","Rabies lyssavirus",11863,"GenBank","","",China, Jilin province
+"1309","JQ970484","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2009",China, Jiangxi Province
+"1310","JQ970485","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2009",China, Jiangxi Province
+"1311","MN175989","Rabies lyssavirus",11924,"GenBank","Bos taurus","2019",China, Jiangsu Province
+"1312","JQ970481","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2006",China, Jiangsu Province
+"1313","JQ970482","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2006",China, Jiangsu Province
+"1314","JQ970483","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2008",China, Jiangsu Province
+"1315","MH267792","Rabies lyssavirus",11884,"GenBank","Ovis aries","2017",China, Inner Mongolia
+"1316","KJ564280","Rabies lyssavirus",11924,"GenBank","Dama dama","2013",China, Inner Mongolia
+"1317","MF476106","Rabies lyssavirus",11766,"GenBank","Homo sapiens","2015",China, Hunan, Changsha
+"1318","EU643590","Rabies lyssavirus",11923,"GenBank","Homo sapiens","2006",China, Hunan Province
+"1319","JQ970480","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2008",China, Hunan Pronivce
+"1320","KC169986","Rabies lyssavirus",11923,"GenBank","Bos taurus","2009",China, Hengxian, Guangxi
+"1321","DQ875050","Rabies lyssavirus",11869,"GenBank","","",China, Henan province
+"1322","MK689674","Rabies lyssavirus",11770,"GenBank","Canis lupus familiaris","2017",China, Gansu
+"1323","MK689675","Rabies lyssavirus",11770,"GenBank","Canis lupus familiaris","2017",China, Gansu
+"1324","MK689676","Rabies lyssavirus",11769,"GenBank","Canis lupus familiaris","2017",China, Gansu
+"1325","FJ866835","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2008",China, Fujian
+"1326","FJ866836","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2008",China, Fujian
+"1327","KC660078","Rabies lyssavirus",11815,"GenBank","Canis sp.","2012",China, Fengtai, Beijing
+"1328","GU345746","Rabies lyssavirus",11908,"GenBank","Canis lupus familiaris","1992",China, Chongqing
+"1329","GQ412744","Rabies lyssavirus",11925,"GenBank","Canis lupus familiaris","1931",China, Beijing
+"1330","MH671332","Rabies lyssavirus",11925,"GenBank","Homo sapiens","2017",China,
+"1331","KY912036","Rabies lyssavirus",11925,"GenBank","Bos grunniens","2014",China,
+"1332","KY952219","Rabies lyssavirus",11928,"GenBank","Canis","2014",China,
+"1333","KY952220","Rabies lyssavirus",11925,"GenBank","Canis lupus familiaris","2016",China,
+"1334","KY964322","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2016",China,
+"1335","KY964323","Rabies lyssavirus",11925,"GenBank","Homo sapiens","2016",China,
+"1336","KY982922","Rabies lyssavirus",11925,"GenBank","Canis lupus familiaris","2014",China,
+"1337","KY982923","Rabies lyssavirus",11928,"GenBank","Homo sapiens","2012",China,
+"1338","KY997452","Rabies lyssavirus",11928,"GenBank","Canis lupus familiaris","2014",China,
+"1339","MK567666","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2013",China,
+"1340","MK577649","Rabies lyssavirus",11924,"GenBank","Ovis aries","2015",China,
+"1341","KY175229","Rabies lyssavirus",11927,"GenBank","Canis lupus familiaris","2012",China,
+"1342","KY175230","Rabies lyssavirus",11927,"GenBank","Homo sapiens","2015",China,
+"1343","MG201919","Rabies lyssavirus",11922,"GenBank","Canis lupus familiaris","2011",China,
+"1344","MG201920","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2010",China,
+"1345","MG201921","Rabies lyssavirus",11921,"GenBank","Canis lupus familiaris","2012",China,
+"1346","MG201922","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2012",China,
+"1347","MG201923","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2003",China,
+"1348","MG458321","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","",China,
+"1349","KY780299","Rabies lyssavirus",11924,"GenBank","Homo sapiens","2017",China,
+"1350","KY451767","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2015",China,
+"1351","KX148264","Rabies lyssavirus",11800,"GenBank","Canis lupus familiaris","1994",China,
+"1352","KX148265","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1998",China,
+"1353","KX148267","Rabies lyssavirus",11805,"GenBank","Homo sapiens","1992",China,
+"1354","KU946961","Rabies lyssavirus",11924,"GenBank","","2009",China,
+"1355","KR230089","Rabies lyssavirus",11924,"GenBank","Bos taurus","2015",China,
+"1356","KR230090","Rabies lyssavirus",11924,"GenBank","Bos taurus","2015",China,
+"1357","KM272192","Rabies lyssavirus",11927,"GenBank","Canis lupus familiaris","2012",China,
+"1358","KJ004416","Rabies lyssavirus",11924,"GenBank","Homo sapiens","2013",China,
+"1359","KM016899","Rabies lyssavirus",11923,"GenBank","Vulpes vulpes","2014",China,
+"1360","KC252633","Rabies lyssavirus",11917,"GenBank","Bos taurus","2011",China,
+"1361","KC252634","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2011",China,
+"1362","KC977995","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2009",China,
+"1363","KF726852","Rabies lyssavirus",11922,"GenBank","Melogale moschata","2009",China,
+"1364","KF726853","Rabies lyssavirus",11924,"GenBank","Melogale moschata","2010",China,
+"1365","KC762941","Rabies lyssavirus",11923,"GenBank","Melogale moschata","2009",China,
+"1366","KC193267","Rabies lyssavirus",11924,"GenBank","Bos taurus","2011",China,
+"1367","JX276550","Rabies lyssavirus",11932,"GenBank","","",China,
+"1368","JX088694","Rabies lyssavirus",11923,"GenBank","Sus scrofa","",China,
+"1369","JQ946087","Rabies lyssavirus",11922,"GenBank","","2011",China,
+"1370","JQ730682","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2010",China,
+"1371","JQ647510","Rabies lyssavirus",11924,"GenBank","Equus asinus","2011",China,
+"1372","JQ423952","Rabies lyssavirus",11924,"GenBank","Equus caballus","2011",China,
+"1373","JN609295","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2008",China,
+"1374","JN234411","Rabies lyssavirus",11925,"GenBank","Canis lupus familiaris","1931",China,
+"1375","HQ317918","Rabies lyssavirus",11925,"GenBank","Homo sapiens","1956",China,
+"1376","HQ450385","Rabies lyssavirus",11924,"GenBank","Canis lupus familiaris","2008",China,
+"1377","GU647092","Rabies lyssavirus",11922,"GenBank","Melogale moschata","2008",China,
+"1378","FJ913470","Rabies lyssavirus",11932,"GenBank","","2007",China,
+"1379","FJ712193","Rabies lyssavirus",11925,"GenBank","Canis lupus familiaris","2008",China,
+"1380","FJ712194","Rabies lyssavirus",11925,"GenBank","Canis lupus familiaris","2008",China,
+"1381","FJ712195","Rabies lyssavirus",11923,"GenBank","Melogale moschata","2008",China,
+"1382","FJ712196","Rabies lyssavirus",11923,"GenBank","Melogale moschata","2008",China,
+"1383","FJ577895","Rabies lyssavirus",11924,"GenBank","","",China,
+"1384","EU549783","Rabies lyssavirus",11924,"GenBank","","",China,
+"1385","MG458305","Rabies lyssavirus",11923,"GenBank","Chiroptera","",Chile,
+"1386","KX148240","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1990",Chad,
+"1387","KX148241","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1996",Chad,
+"1388","KF977826","Rabies lyssavirus",11923,"GenBank","Homo sapiens","2011",Central African Republic, Bangui
+"1389","KX148208","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1992",Central African Republic,
+"1390","MF143237","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Waweig, Charlotte, NB
+"1391","MF143241","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Waweig, Charlotte, NB
+"1392","MF143245","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Waweig, Charlotte, NB
+"1393","MF143246","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Waweig, Charlotte, NB
+"1394","MF143234","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2002",Canada, Valley Road, Charlotte, NB
+"1395","MF143247","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Valley Road, Charlotte, NB
+"1396","MF143363","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Sutton, Brome-Missisquoi, QC
+"1397","MF143356","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Stanbridge Station, Brome-Missisquoi, QC
+"1398","MF143350","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Stanbridge East, Brome-Missisquoi, QC
+"1399","MF143224","Rabies lyssavirus",11939,"GenBank","Mephitidae","2000",Canada, St. Stephen, Charlotte, NB
+"1400","MF143225","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2000",Canada, St. Stephen, Charlotte, NB
+"1401","MF143226","Rabies lyssavirus",11939,"GenBank","Mephitidae","2000",Canada, St. Stephen, Charlotte, NB
+"1402","MF143228","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2001",Canada, St. Stephen, Charlotte, NB
+"1403","MF143229","Rabies lyssavirus",11939,"GenBank","Mephitidae","2001",Canada, St. Stephen, Charlotte, NB
+"1404","MF143233","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2001",Canada, St. Stephen, Charlotte, NB
+"1405","MF143235","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2014",Canada, St. Stephen, Charlotte, NB
+"1406","MF143239","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, St. Stephen, Charlotte, NB
+"1407","MF143243","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, St. Stephen, Charlotte, NB
+"1408","MF143227","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2000",Canada, St. George, Charlotte, NB
+"1409","MF143248","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, St. Andrews, Charlotte, NB
+"1410","MF143249","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, St. Andrews, Charlotte, NB
+"1411","MF143277","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, St Regis, Akwesasne Reservation, QC
+"1412","MF143368","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Sainte-Sabine, Brome-Missisquoi, QC
+"1413","MF143355","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Sainte-Anne-de-Sabrevois, Le Haut-Richelieu, QC
+"1414","MF143367","Rabies lyssavirus",11939,"GenBank","Mephitidae","2008",Canada, Sainte-Anne-de-Sabrevois, Le Haut-Richelieu, QC
+"1415","MF143266","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-S_bastien, Brome-Missisquoi, QC
+"1416","MF143352","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-S_bastien, Brome-Missisquoi, QC
+"1417","MF143264","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Pierre-de-Veronne-a-Pike-River, Brome-Missisquoi, QC
+"1418","MF143265","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Pierre-de-Veronne-a-Pike-River, Brome-Missisquoi, QC
+"1419","MF143269","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Pierre-de-Veronne-a-Pike-River, Brome-Missisquoi, QC
+"1420","MF143349","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Pierre-de-Veronne-a-Pike-River, Brome-Missisquoi, QC
+"1421","MF143357","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Jean-sur-Richelieu, Le Haut-Richelieu, QC
+"1422","MF143359","Rabies lyssavirus",11939,"GenBank","Vulpes vulpes","2007",Canada, Saint-Jean-sur-Richelieu, Le Haut-Richelieu, QC
+"1423","MF143345","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Jean-sur-Richelieu, Brome-Missisquoi, QC
+"1424","MF143346","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Jean-sur-Richelieu, Brome-Missisquoi, QC
+"1425","MF143366","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Saint-Georges-de-Clarenceville, Le Haut-Richelieu, QC
+"1426","MF143371","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Saint-C_saire, Rouville, QC
+"1427","MF143260","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Armand, Brome-Missisquoi, QC
+"1428","MF143262","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Armand, Brome-Missisquoi, QC
+"1429","MF143263","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Armand, Brome-Missisquoi, QC
+"1430","MF143270","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Armand, Brome-Missisquoi, QC
+"1431","MF143347","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Armand, Brome-Missisquoi, QC
+"1432","MF143351","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Saint-Armand, Brome-Missisquoi, QC
+"1433","MF143358","Rabies lyssavirus",11939,"GenBank","Mephitidae","2007",Canada, Saint-Alexandre, Le Haut-Richelieu, QC
+"1434","MN234016","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1993",Canada, Quebec
+"1435","MN234017","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1996",Canada, Quebec
+"1436","MN234018","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1999",Canada, Quebec
+"1437","MN234019","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2000",Canada, Quebec
+"1438","MN234020","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2000",Canada, Quebec
+"1439","MN234021","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2000",Canada, Quebec
+"1440","MN234022","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2001",Canada, Quebec
+"1441","MN234023","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2002",Canada, Quebec
+"1442","MN234024","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2003",Canada, Quebec
+"1443","MN234025","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2003",Canada, Quebec
+"1444","MN234026","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2003",Canada, Quebec
+"1445","MN234027","Rabies lyssavirus",11926,"GenBank","Canis","2004",Canada, Quebec
+"1446","MN234028","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2004",Canada, Quebec
+"1447","MN234029","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2004",Canada, Quebec
+"1448","MN234030","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2004",Canada, Quebec
+"1449","MN234031","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2009",Canada, Quebec
+"1450","MN234032","Rabies lyssavirus",11926,"GenBank","Canis","2009",Canada, Quebec
+"1451","MN234033","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2009",Canada, Quebec
+"1452","MN234034","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2009",Canada, Quebec
+"1453","MN234035","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2009",Canada, Quebec
+"1454","MN234036","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2012",Canada, Quebec
+"1455","MN234037","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2012",Canada, Quebec
+"1456","MN234038","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2012",Canada, Quebec
+"1457","MN234039","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2012",Canada, Quebec
+"1458","MN234040","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Quebec
+"1459","MN234041","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2012",Canada, Quebec
+"1460","MN234042","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2012",Canada, Quebec
+"1461","MN234043","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2012",Canada, Quebec
+"1462","MN234044","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Quebec
+"1463","MN234045","Rabies lyssavirus",11926,"GenBank","Canis","2012",Canada, Quebec
+"1464","MN234046","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2012",Canada, Quebec
+"1465","MN234047","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2012",Canada, Quebec
+"1466","MN234048","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Quebec
+"1467","MN234049","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Quebec
+"1468","MN234050","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Quebec
+"1469","MN234051","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2015",Canada, Quebec
+"1470","MN234052","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2015",Canada, Quebec
+"1471","MN234053","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2015",Canada, Quebec
+"1472","MN234054","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2015",Canada, Quebec
+"1473","MN234055","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2017",Canada, Quebec
+"1474","MN234056","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2017",Canada, Quebec
+"1475","MF143253","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Pennfield, Charlotte, NB
+"1476","MN234013","Rabies lyssavirus",11927,"GenBank","Vulpes lagopus","1995",Canada, Ontario
+"1477","MN234014","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2000",Canada, Ontario
+"1478","MN234015","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2013",Canada, Ontario
+"1479","MK540800","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2015",Canada, Ontario
+"1480","MK540801","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2015",Canada, Ontario
+"1481","MK540802","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2015",Canada, Ontario
+"1482","MK540803","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2015",Canada, Ontario
+"1483","MK540804","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2015",Canada, Ontario
+"1484","MK540805","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1485","MK540806","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1486","MK540807","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1487","MK540808","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1488","MK540809","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1489","MK540810","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1490","MK540811","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1491","MK540812","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1492","MK540813","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1493","MK540814","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1494","MK540815","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1495","MK540816","Rabies lyssavirus",11924,"GenBank","Mephitidae","2016",Canada, Ontario
+"1496","MK540817","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1497","MK540818","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1498","MK540819","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1499","MK540820","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1500","MK540821","Rabies lyssavirus",11922,"GenBank","Mephitidae","2016",Canada, Ontario
+"1501","MK540822","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1502","MK540823","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1503","MK540824","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1504","MK540825","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1505","MK540826","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1506","MK540827","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1507","MK540828","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1508","MK540829","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1509","MK540830","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1510","MK540831","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1511","MK540832","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1512","MK540833","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1513","MK540834","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1514","MK540835","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1515","MK540836","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1516","MK540837","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1517","MK540838","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1518","MK540839","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1519","MK540840","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1520","MK540841","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1521","MK540842","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1522","MK540843","Rabies lyssavirus",11923,"GenBank","Vulpes vulpes","2016",Canada, Ontario
+"1523","MK540844","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1524","MK540845","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1525","MK540846","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1526","MK540847","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1527","MK540848","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1528","MK540849","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1529","MK540850","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1530","MK540851","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1531","MK540852","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1532","MK540853","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1533","MK540854","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1534","MK540855","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1535","MK540856","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1536","MK540857","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1537","MK540858","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1538","MK540859","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1539","MK540860","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1540","MK540861","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1541","MK540862","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1542","MK540863","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1543","MK540864","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1544","MK540865","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1545","MK540866","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1546","MK540867","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1547","MK540868","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1548","MK540869","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2016",Canada, Ontario
+"1549","MK540870","Rabies lyssavirus",11923,"GenBank","Mephitidae","2016",Canada, Ontario
+"1550","MK540871","Rabies lyssavirus",11924,"GenBank","Mephitidae","2016",Canada, Ontario
+"1551","MK540872","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2017",Canada, Ontario
+"1552","MK540873","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2017",Canada, Ontario
+"1553","MK540874","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2017",Canada, Ontario
+"1554","MK540875","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2017",Canada, Ontario
+"1555","MK540876","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2017",Canada, Ontario
+"1556","MK540877","Rabies lyssavirus",11923,"GenBank","Mephitidae","2017",Canada, Ontario
+"1557","MK540878","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2017",Canada, Ontario
+"1558","MK540879","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2017",Canada, Ontario
+"1559","MK540880","Rabies lyssavirus",11924,"GenBank","Mephitidae","2017",Canada, Ontario
+"1560","MK540881","Rabies lyssavirus",11924,"GenBank","Mephitidae","2017",Canada, Ontario
+"1561","MK540882","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2017",Canada, Ontario
+"1562","MK540887","Rabies lyssavirus",11925,"GenBank","Mephitidae","1990",Canada, Ontario
+"1563","MK540888","Rabies lyssavirus",11925,"GenBank","Vulpes vulpes","1990",Canada, Ontario
+"1564","MK540889","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1990",Canada, Ontario
+"1565","MK540890","Rabies lyssavirus",11926,"GenBank","Mephitidae","1990",Canada, Ontario
+"1566","MK540891","Rabies lyssavirus",11924,"GenBank","Mephitidae","1990",Canada, Ontario
+"1567","MK540892","Rabies lyssavirus",11926,"GenBank","Mephitidae","1990",Canada, Ontario
+"1568","MK540893","Rabies lyssavirus",11926,"GenBank","Mephitidae","1991",Canada, Ontario
+"1569","MK540894","Rabies lyssavirus",11925,"GenBank","Mephitidae","1991",Canada, Ontario
+"1570","MK540895","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1991",Canada, Ontario
+"1571","MK540896","Rabies lyssavirus",11926,"GenBank","Mephitidae","1991",Canada, Ontario
+"1572","MK540897","Rabies lyssavirus",11925,"GenBank","Mephitidae","1991",Canada, Ontario
+"1573","MK540898","Rabies lyssavirus",11925,"GenBank","Vulpes vulpes","1991",Canada, Ontario
+"1574","MK540899","Rabies lyssavirus",11925,"GenBank","Vulpes vulpes","1991",Canada, Ontario
+"1575","MK540900","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1991",Canada, Ontario
+"1576","MK540901","Rabies lyssavirus",11925,"GenBank","Vulpes vulpes","1991",Canada, Ontario
+"1577","MK540902","Rabies lyssavirus",11926,"GenBank","Mephitidae","1993",Canada, Ontario
+"1578","MK540903","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1993",Canada, Ontario
+"1579","MK540904","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1993",Canada, Ontario
+"1580","MK540905","Rabies lyssavirus",11925,"GenBank","Vulpes vulpes","1993",Canada, Ontario
+"1581","MK540906","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1995",Canada, Ontario
+"1582","MK540907","Rabies lyssavirus",11925,"GenBank","Mephitidae","1995",Canada, Ontario
+"1583","MK540908","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1995",Canada, Ontario
+"1584","MK540909","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1995",Canada, Ontario
+"1585","MK540910","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1995",Canada, Ontario
+"1586","MK540911","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1995",Canada, Ontario
+"1587","MK540912","Rabies lyssavirus",11926,"GenBank","Mephitidae","1995",Canada, Ontario
+"1588","MK540913","Rabies lyssavirus",11926,"GenBank","Mephitidae","1996",Canada, Ontario
+"1589","MK540914","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1996",Canada, Ontario
+"1590","MK540915","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1996",Canada, Ontario
+"1591","MK540916","Rabies lyssavirus",11925,"GenBank","Vulpes vulpes","1996",Canada, Ontario
+"1592","MK540917","Rabies lyssavirus",11926,"GenBank","Mephitidae","1996",Canada, Ontario
+"1593","MK540918","Rabies lyssavirus",11926,"GenBank","Mephitidae","1996",Canada, Ontario
+"1594","MK540919","Rabies lyssavirus",11926,"GenBank","Mephitidae","1996",Canada, Ontario
+"1595","MK540920","Rabies lyssavirus",11925,"GenBank","Mephitidae","1997",Canada, Ontario
+"1596","MK540921","Rabies lyssavirus",11925,"GenBank","Mephitidae","1998",Canada, Ontario
+"1597","MK540922","Rabies lyssavirus",11926,"GenBank","Mephitidae","1998",Canada, Ontario
+"1598","MK540923","Rabies lyssavirus",11924,"GenBank","Mephitidae","1998",Canada, Ontario
+"1599","MK540924","Rabies lyssavirus",11927,"GenBank","Mephitidae","1998",Canada, Ontario
+"1600","MK540925","Rabies lyssavirus",11926,"GenBank","Mephitidae","1998",Canada, Ontario
+"1601","MK540926","Rabies lyssavirus",11925,"GenBank","Mephitidae","1998",Canada, Ontario
+"1602","MK540927","Rabies lyssavirus",11926,"GenBank","Mephitidae","1999",Canada, Ontario
+"1603","MK540928","Rabies lyssavirus",11925,"GenBank","Mephitidae","1999",Canada, Ontario
+"1604","MK540929","Rabies lyssavirus",11926,"GenBank","Mephitidae","1999",Canada, Ontario
+"1605","MK540930","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1999",Canada, Ontario
+"1606","MK540931","Rabies lyssavirus",11926,"GenBank","Mephitidae","1999",Canada, Ontario
+"1607","MK540932","Rabies lyssavirus",11926,"GenBank","Mephitidae","1999",Canada, Ontario
+"1608","MK540933","Rabies lyssavirus",11926,"GenBank","Mephitidae","1999",Canada, Ontario
+"1609","MK540934","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1999",Canada, Ontario
+"1610","MK540935","Rabies lyssavirus",11926,"GenBank","Mephitidae","1999",Canada, Ontario
+"1611","MK540936","Rabies lyssavirus",11926,"GenBank","Mephitidae","2000",Canada, Ontario
+"1612","MK540937","Rabies lyssavirus",11926,"GenBank","Mephitidae","2000",Canada, Ontario
+"1613","MK540938","Rabies lyssavirus",11926,"GenBank","Mephitidae","2000",Canada, Ontario
+"1614","MK540939","Rabies lyssavirus",11926,"GenBank","Mephitidae","2000",Canada, Ontario
+"1615","MK540940","Rabies lyssavirus",11928,"GenBank","Mephitidae","2000",Canada, Ontario
+"1616","MK540941","Rabies lyssavirus",11926,"GenBank","Mephitidae","2000",Canada, Ontario
+"1617","MK540942","Rabies lyssavirus",11926,"GenBank","Mephitidae","2000",Canada, Ontario
+"1618","MK540943","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2000",Canada, Ontario
+"1619","MK540944","Rabies lyssavirus",11926,"GenBank","Mephitidae","2000",Canada, Ontario
+"1620","MK540945","Rabies lyssavirus",11926,"GenBank","Mephitidae","2000",Canada, Ontario
+"1621","MK540946","Rabies lyssavirus",11926,"GenBank","Mephitidae","2001",Canada, Ontario
+"1622","MK540947","Rabies lyssavirus",11926,"GenBank","Mephitidae","2001",Canada, Ontario
+"1623","MK540948","Rabies lyssavirus",11926,"GenBank","Mephitidae","2001",Canada, Ontario
+"1624","MK540949","Rabies lyssavirus",11926,"GenBank","Mephitidae","2001",Canada, Ontario
+"1625","MK540950","Rabies lyssavirus",11925,"GenBank","Mephitidae","2001",Canada, Ontario
+"1626","MK540951","Rabies lyssavirus",11926,"GenBank","Mephitidae","2001",Canada, Ontario
+"1627","MK540952","Rabies lyssavirus",11926,"GenBank","Mephitidae","2001",Canada, Ontario
+"1628","MK540953","Rabies lyssavirus",11926,"GenBank","Mephitidae","2001",Canada, Ontario
+"1629","MK540954","Rabies lyssavirus",11925,"GenBank","Mephitidae","2001",Canada, Ontario
+"1630","MK540955","Rabies lyssavirus",11926,"GenBank","Mephitidae","2001",Canada, Ontario
+"1631","MK540956","Rabies lyssavirus",11925,"GenBank","Mephitidae","2002",Canada, Ontario
+"1632","MK540957","Rabies lyssavirus",11926,"GenBank","Mephitidae","2002",Canada, Ontario
+"1633","MK540958","Rabies lyssavirus",11926,"GenBank","Mephitidae","2002",Canada, Ontario
+"1634","MK540959","Rabies lyssavirus",11926,"GenBank","Mephitidae","2002",Canada, Ontario
+"1635","MK540960","Rabies lyssavirus",11926,"GenBank","Mephitidae","2003",Canada, Ontario
+"1636","MK540961","Rabies lyssavirus",11926,"GenBank","Mephitidae","2003",Canada, Ontario
+"1637","MK540962","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2003",Canada, Ontario
+"1638","MK540963","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2003",Canada, Ontario
+"1639","MK540964","Rabies lyssavirus",11926,"GenBank","Mephitidae","2004",Canada, Ontario
+"1640","MK540965","Rabies lyssavirus",11925,"GenBank","Mephitidae","2004",Canada, Ontario
+"1641","MK540966","Rabies lyssavirus",11925,"GenBank","Mephitidae","2004",Canada, Ontario
+"1642","MK540967","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2005",Canada, Ontario
+"1643","MK540968","Rabies lyssavirus",11925,"GenBank","Mephitidae","2005",Canada, Ontario
+"1644","MK540969","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2005",Canada, Ontario
+"1645","MK540970","Rabies lyssavirus",11926,"GenBank","Mephitidae","2005",Canada, Ontario
+"1646","MK540971","Rabies lyssavirus",11926,"GenBank","Mephitidae","2006",Canada, Ontario
+"1647","MK540972","Rabies lyssavirus",11925,"GenBank","Mephitidae","2006",Canada, Ontario
+"1648","MK540973","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2006",Canada, Ontario
+"1649","MK540974","Rabies lyssavirus",11926,"GenBank","Mephitidae","2006",Canada, Ontario
+"1650","MK540975","Rabies lyssavirus",11926,"GenBank","Mephitidae","2006",Canada, Ontario
+"1651","MK540976","Rabies lyssavirus",11928,"GenBank","Mephitidae","2006",Canada, Ontario
+"1652","MK540977","Rabies lyssavirus",11926,"GenBank","Mephitidae","2006",Canada, Ontario
+"1653","MK540978","Rabies lyssavirus",11926,"GenBank","Mephitidae","2007",Canada, Ontario
+"1654","MK540979","Rabies lyssavirus",11926,"GenBank","Mephitidae","2007",Canada, Ontario
+"1655","MK540980","Rabies lyssavirus",11926,"GenBank","Mephitidae","2007",Canada, Ontario
+"1656","MK540981","Rabies lyssavirus",11926,"GenBank","Mephitidae","2008",Canada, Ontario
+"1657","MK540982","Rabies lyssavirus",11926,"GenBank","Mephitidae","2008",Canada, Ontario
+"1658","MK540983","Rabies lyssavirus",11926,"GenBank","Mephitidae","2008",Canada, Ontario
+"1659","MK540984","Rabies lyssavirus",11926,"GenBank","Mephitidae","2008",Canada, Ontario
+"1660","MK540985","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2008",Canada, Ontario
+"1661","MK540986","Rabies lyssavirus",11925,"GenBank","Mephitidae","2008",Canada, Ontario
+"1662","MK540987","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2009",Canada, Ontario
+"1663","MK540988","Rabies lyssavirus",11926,"GenBank","Bos taurus","2009",Canada, Ontario
+"1664","MK540989","Rabies lyssavirus",11927,"GenBank","Bos taurus","2009",Canada, Ontario
+"1665","MK540990","Rabies lyssavirus",11926,"GenBank","Mephitidae","2009",Canada, Ontario
+"1666","MK540991","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2009",Canada, Ontario
+"1667","MK540992","Rabies lyssavirus",11925,"GenBank","Mephitidae","2009",Canada, Ontario
+"1668","MK540993","Rabies lyssavirus",11926,"GenBank","Mephitidae","2010",Canada, Ontario
+"1669","MK540994","Rabies lyssavirus",11926,"GenBank","Bos taurus","2011",Canada, Ontario
+"1670","MK540995","Rabies lyssavirus",11926,"GenBank","Mephitidae","2011",Canada, Ontario
+"1671","MK540996","Rabies lyssavirus",11926,"GenBank","Mephitidae","2012",Canada, Ontario
+"1672","MK540997","Rabies lyssavirus",11926,"GenBank","Felis catus","2012",Canada, Ontario
+"1673","MK540998","Rabies lyssavirus",11926,"GenBank","Bos taurus","2015",Canada, Ontario
+"1674","MK540999","Rabies lyssavirus",11926,"GenBank","Bos taurus","2016",Canada, Ontario
+"1675","MK541000","Rabies lyssavirus",11926,"GenBank","Bos taurus","2017",Canada, Ontario
+"1676","MK541001","Rabies lyssavirus",11926,"GenBank","Bos taurus","2017",Canada, Ontario
+"1677","MK541002","Rabies lyssavirus",11926,"GenBank","Bos taurus","2017",Canada, Ontario
+"1678","MK541003","Rabies lyssavirus",11926,"GenBank","Bos taurus","2017",Canada, Ontario
+"1679","MK541004","Rabies lyssavirus",11927,"GenBank","Vulpes vulpes","2017",Canada, Ontario
+"1680","MK541005","Rabies lyssavirus",11926,"GenBank","Mephitidae","2017",Canada, Ontario
+"1681","MK541006","Rabies lyssavirus",11926,"GenBank","Mephitidae","2017",Canada, Ontario
+"1682","MK541007","Rabies lyssavirus",11926,"GenBank","Mephitidae","2017",Canada, Ontario
+"1683","MK541008","Rabies lyssavirus",11926,"GenBank","Mephitidae","2017",Canada, Ontario
+"1684","MK541009","Rabies lyssavirus",11927,"GenBank","Mephitidae","2018",Canada, Ontario
+"1685","MK541010","Rabies lyssavirus",11926,"GenBank","Mephitidae","2018",Canada, Ontario
+"1686","MK541011","Rabies lyssavirus",11926,"GenBank","Mephitidae","2018",Canada, Ontario
+"1687","MK541012","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2000",Canada, Ontario
+"1688","MF143236","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Oak Bay, Charlotte, NB
+"1689","MN233974","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1999",Canada, Nunavut
+"1690","MN233975","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1999",Canada, Nunavut
+"1691","MN233976","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2002",Canada, Nunavut
+"1692","MN233977","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2002",Canada, Nunavut
+"1693","MN233978","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2004",Canada, Nunavut
+"1694","MN233979","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2005",Canada, Nunavut
+"1695","MN233980","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2005",Canada, Nunavut
+"1696","MN233981","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2005",Canada, Nunavut
+"1697","MN233982","Rabies lyssavirus",11927,"GenBank","Vulpes lagopus","2006",Canada, Nunavut
+"1698","MN233983","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2006",Canada, Nunavut
+"1699","MN233984","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2006",Canada, Nunavut
+"1700","MN233985","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2007",Canada, Nunavut
+"1701","MN233986","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2007",Canada, Nunavut
+"1702","MN233987","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2007",Canada, Nunavut
+"1703","MN233988","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2008",Canada, Nunavut
+"1704","MN233989","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2008",Canada, Nunavut
+"1705","MN233990","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2012",Canada, Nunavut
+"1706","MN233991","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2012",Canada, Nunavut
+"1707","MN233992","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2012",Canada, Nunavut
+"1708","MN233993","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2012",Canada, Nunavut
+"1709","MN233994","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2013",Canada, Nunavut
+"1710","MN233995","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2013",Canada, Nunavut
+"1711","MN233996","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2013",Canada, Nunavut
+"1712","MN233997","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2013",Canada, Nunavut
+"1713","MN233998","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2014",Canada, Nunavut
+"1714","MN233999","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2015",Canada, Nunavut
+"1715","MN234000","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2015",Canada, Nunavut
+"1716","MN234001","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2015",Canada, Nunavut
+"1717","MN234002","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2015",Canada, Nunavut
+"1718","MN234003","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2015",Canada, Nunavut
+"1719","MN234004","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2015",Canada, Nunavut
+"1720","MN234005","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2015",Canada, Nunavut
+"1721","MN234006","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2015",Canada, Nunavut
+"1722","MN234007","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2016",Canada, Nunavut
+"1723","MN234008","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2017",Canada, Nunavut
+"1724","MN234009","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2017",Canada, Nunavut
+"1725","MN234010","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2017",Canada, Nunavut
+"1726","MN234011","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2017",Canada, Nunavut
+"1727","MN234012","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2017",Canada, Nunavut
+"1728","MF143256","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Noyan, Le Haut-Richelieu, QC
+"1729","MF143273","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Noyan, Le Haut-Richelieu, QC
+"1730","MF143360","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Noyan, Le Haut-Richelieu, QC
+"1731","MF143362","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Noyan, Le Haut-Richelieu, QC
+"1732","MF143364","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Noyan, Le Haut-Richelieu, QC
+"1733","MF143267","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Noyan, Brome-Missisquoi, QC
+"1734","MF143268","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Noyan, Brome-Missisquoi, QC
+"1735","MN233947","Rabies lyssavirus",11926,"GenBank","Ursus maritimus","1990",Canada, Northern Territories
+"1736","MN233948","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1990",Canada, Northern Territories
+"1737","MN233949","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1990",Canada, Northern Territories
+"1738","MN233950","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1992",Canada, Northern Territories
+"1739","MN233951","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1993",Canada, Northern Territories
+"1740","MN233952","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1993",Canada, Northern Territories
+"1741","MN233953","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1993",Canada, Northern Territories
+"1742","MN233954","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1993",Canada, Northern Territories
+"1743","MN233955","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1993",Canada, Northern Territories
+"1744","MN233956","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1993",Canada, Northern Territories
+"1745","MN233957","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1993",Canada, Northern Territories
+"1746","MN233958","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1994",Canada, Northern Territories
+"1747","MN233959","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1997",Canada, Northern Territories
+"1748","MN233960","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1998",Canada, Northern Territories
+"1749","MN233961","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2000",Canada, Northern Territories
+"1750","MN233962","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2000",Canada, Northern Territories
+"1751","MN233963","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2001",Canada, Northern Territories
+"1752","MN233964","Rabies lyssavirus",11927,"GenBank","Canis lupus familiaris","2005",Canada, Northern Territories
+"1753","MN233965","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2006",Canada, Northern Territories
+"1754","MN233966","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2006",Canada, Northern Territories
+"1755","MN233967","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2007",Canada, Northern Territories
+"1756","MN233968","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2008",Canada, Northern Territories
+"1757","MN233969","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2008",Canada, Northern Territories
+"1758","MN233970","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2012",Canada, Northern Territories
+"1759","MN233971","Rabies lyssavirus",11927,"GenBank","Canis lupus familiaris","2012",Canada, Northern Territories
+"1760","MN233972","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2012",Canada, Northern Territories
+"1761","MN233973","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2013",Canada, Northern Territories
+"1762","MN233906","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1996",Canada, Newfoundland and Labrador
+"1763","MN233907","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1996",Canada, Newfoundland and Labrador
+"1764","MN233908","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1996",Canada, Newfoundland and Labrador
+"1765","MN233909","Rabies lyssavirus",11927,"GenBank","Vulpes vulpes","1996",Canada, Newfoundland and Labrador
+"1766","MN233910","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1996",Canada, Newfoundland and Labrador
+"1767","MN233911","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1996",Canada, Newfoundland and Labrador
+"1768","MN233912","Rabies lyssavirus",11927,"GenBank","Vulpes vulpes","1996",Canada, Newfoundland and Labrador
+"1769","MN233913","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2002",Canada, Newfoundland and Labrador
+"1770","MN233914","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2002",Canada, Newfoundland and Labrador
+"1771","MN233915","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2002",Canada, Newfoundland and Labrador
+"1772","MN233916","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2003",Canada, Newfoundland and Labrador
+"1773","MN233917","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2003",Canada, Newfoundland and Labrador
+"1774","MN233918","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2003",Canada, Newfoundland and Labrador
+"1775","MN233919","Rabies lyssavirus",11927,"GenBank","Vulpes vulpes","2003",Canada, Newfoundland and Labrador
+"1776","MN233920","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2004",Canada, Newfoundland and Labrador
+"1777","MN233921","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2004",Canada, Newfoundland and Labrador
+"1778","MN233922","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2004",Canada, Newfoundland and Labrador
+"1779","MN233923","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2004",Canada, Newfoundland and Labrador
+"1780","MN233924","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1781","MN233925","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1782","MN233926","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1783","MN233927","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1784","MN233928","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1785","MN233929","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1786","MN233930","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1787","MN233931","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1788","MN233932","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1789","MN233933","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1790","MN233934","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1791","MN233935","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1792","MN233936","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Newfoundland and Labrador
+"1793","MN233937","Rabies lyssavirus",11926,"GenBank","Canis","2015",Canada, Newfoundland and Labrador
+"1794","MN233938","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2015",Canada, Newfoundland and Labrador
+"1795","MN233939","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2015",Canada, Newfoundland and Labrador
+"1796","MN233940","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2015",Canada, Newfoundland and Labrador
+"1797","MN233941","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2015",Canada, Newfoundland and Labrador
+"1798","MN233942","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2015",Canada, Newfoundland and Labrador
+"1799","MN233943","Rabies lyssavirus",11926,"GenBank","Canis","2015",Canada, Newfoundland and Labrador
+"1800","MN233944","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2015",Canada, Newfoundland and Labrador
+"1801","MN233945","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2015",Canada, Newfoundland and Labrador
+"1802","MN233946","Rabies lyssavirus",11926,"GenBank","Felis catus","2015",Canada, Newfoundland and Labrador
+"1803","MF143259","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Mont-Saint-Gregoire, Brome-Missisquoi, QC
+"1804","MF143344","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Mont-Saint-Gregoire, Brome-Missisquoi, QC
+"1805","MF143254","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, McAdam, York, NB
+"1806","MN233903","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2005",Canada, Manitoba
+"1807","MN233904","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada, Manitoba
+"1808","MN233905","Rabies lyssavirus",11926,"GenBank","Canis lupus familiaris","2012",Canada, Manitoba
+"1809","MF143230","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2001",Canada, Little Ridge, Charlotte, NB
+"1810","MF143275","Rabies lyssavirus",11939,"GenBank","Mephitidae","2008",Canada, Henryville, Le Haut-Richelieu, QC
+"1811","MF143369","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Henryville, Le Haut-Richelieu, QC
+"1812","MF143223","Rabies lyssavirus",11939,"GenBank","Mephitidae","2000",Canada, Heathland, Charlotte, NB
+"1813","MF143255","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Hamilton, Hamilton, ON
+"1814","MF143261","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Frelighsburg, Brome-Missisquoi, QC
+"1815","MF143348","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Frelighsburg, Brome-Missisquoi, QC
+"1816","MF143353","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Frelighsburg, Brome-Missisquoi, QC
+"1817","MF143274","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Farnham, Le Haut-Richelieu, QC
+"1818","MF143272","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Farnham, Brome-Missisquoi, QC
+"1819","MF143361","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Farnham, Brome-Missisquoi, QC
+"1820","MF143365","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Farnham, Brome-Missisquoi, QC
+"1821","MF143341","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2006",Canada, Dunham, Brome-Missisquoi, QC
+"1822","MF143343","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2006",Canada, Dunham, Brome-Missisquoi, QC
+"1823","MF143231","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2001",Canada, Dufferin, Charlotte, NB
+"1824","MF143271","Rabies lyssavirus",11939,"GenBank","Mephitidae","2007",Canada, Cowansville, Brome-Missisquoi, QC
+"1825","MF143342","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2006",Canada, Cowansville, Brome-Missisquoi, QC
+"1826","MF143244","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Cooks Lane, Charlotte, NB
+"1827","MF143232","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2001",Canada, Cockerhill, Charlotte, NB
+"1828","MF143276","Rabies lyssavirus",11939,"GenBank","Mephitidae","2009",Canada, Clarenceville, Le Haut-Richelieu, QC
+"1829","MF143372","Rabies lyssavirus",11939,"GenBank","Mephitidae","2009",Canada, Clarenceville, Le Haut-Richelieu, QC
+"1830","MF143250","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Chamcook, Charlotte, NB
+"1831","MF143242","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Burnt Hill, Charlotte, NB
+"1832","MF143240","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Bocabec, Charlotte, NB
+"1833","MF143251","Rabies lyssavirus",11939,"GenBank","Mephitidae","2015",Canada, Bocabec, Charlotte, NB
+"1834","MF143354","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2007",Canada, Bedford, Brome-Missisquoi, QC
+"1835","MF143238","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Bayside, Charlotte, NB
+"1836","MF143252","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2015",Canada, Bayside, Charlotte, NB
+"1837","MF143370","Rabies lyssavirus",11939,"GenBank","Procyon lotor","2008",Canada, Ange-Gardien, Rouville, QC
+"1838","KY026415","Rabies lyssavirus",11924,"GenBank","Mephitidae","2014",Canada,
+"1839","KY026422","Rabies lyssavirus",11925,"GenBank","Procyon lotor","1999",Canada,
+"1840","KY026423","Rabies lyssavirus",11925,"GenBank","Procyon lotor","1999",Canada,
+"1841","KY026424","Rabies lyssavirus",11923,"GenBank","Procyon lotor","1999",Canada,
+"1842","KY026425","Rabies lyssavirus",11925,"GenBank","Procyon lotor","1999",Canada,
+"1843","KY026426","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2000",Canada,
+"1844","KY026427","Rabies lyssavirus",11923,"GenBank","Procyon lotor","2000",Canada,
+"1845","KY026428","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1846","KY026429","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1847","KY026430","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1848","KY026431","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1849","KY026432","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1850","KY026433","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1851","KY026434","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1852","KY026435","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1853","KY026436","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1854","KY026437","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1855","KY026438","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1856","KY026439","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1857","KY026440","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1858","KY026441","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1859","KY026442","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1860","KY026443","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2000",Canada,
+"1861","KY026444","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2001",Canada,
+"1862","KY026445","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2001",Canada,
+"1863","KY026446","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2001",Canada,
+"1864","KY026447","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2001",Canada,
+"1865","KY026448","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2001",Canada,
+"1866","KY026449","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2001",Canada,
+"1867","KY026450","Rabies lyssavirus",11925,"GenBank","Mephitidae","2001",Canada,
+"1868","KY026451","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2001",Canada,
+"1869","KY026452","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2001",Canada,
+"1870","KY026453","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2001",Canada,
+"1871","KY026454","Rabies lyssavirus",11926,"GenBank","Procyon lotor","2001",Canada,
+"1872","KY026455","Rabies lyssavirus",11924,"GenBank","Procyon lotor","2001",Canada,
+"1873","KY026456","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2001",Canada,
+"1874","KY026457","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2001",Canada,
+"1875","KY026458","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2001",Canada,
+"1876","KY026459","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2002",Canada,
+"1877","KY026460","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2002",Canada,
+"1878","KY026461","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2002",Canada,
+"1879","KY026462","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2002",Canada,
+"1880","KY026463","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2002",Canada,
+"1881","KY026464","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2003",Canada,
+"1882","KY026465","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2003",Canada,
+"1883","KY026466","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2003",Canada,
+"1884","KY026467","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2003",Canada,
+"1885","KY026468","Rabies lyssavirus",11926,"GenBank","Procyon lotor","2003",Canada,
+"1886","KY026469","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2003",Canada,
+"1887","KY026470","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2003",Canada,
+"1888","KY026471","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2003",Canada,
+"1889","KY026472","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2003",Canada,
+"1890","KY026473","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2004",Canada,
+"1891","KY026474","Rabies lyssavirus",11926,"GenBank","Procyon lotor","2004",Canada,
+"1892","KY026475","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2004",Canada,
+"1893","KY026476","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2004",Canada,
+"1894","KY026477","Rabies lyssavirus",11925,"GenBank","Procyon lotor","2005",Canada,
+"1895","KU198461","Rabies lyssavirus",11927,"GenBank","Vulpes lagopus","1990",Canada,
+"1896","KU198464","Rabies lyssavirus",11927,"GenBank","Vulpes lagopus","1991",Canada,
+"1897","KU198465","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","1992",Canada,
+"1898","KU198466","Rabies lyssavirus",11927,"GenBank","Vulpes lagopus","1993",Canada,
+"1899","KU198467","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","1997",Canada,
+"1900","KU198468","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2000",Canada,
+"1901","KU198469","Rabies lyssavirus",11924,"GenBank","Vulpes vulpes","2001",Canada,
+"1902","KU198470","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2002",Canada,
+"1903","KU198472","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2012",Canada,
+"1904","KU198473","Rabies lyssavirus",11927,"GenBank","Vulpes vulpes","2012",Canada,
+"1905","KU198474","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2012",Canada,
+"1906","KU198475","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2013",Canada,
+"1907","KU198476","Rabies lyssavirus",11926,"GenBank","Vulpes lagopus","2013",Canada,
+"1908","KU198477","Rabies lyssavirus",11927,"GenBank","Vulpes lagopus","2013",Canada,
+"1909","KU198478","Rabies lyssavirus",11927,"GenBank","Vulpes lagopus","2013",Canada,
+"1910","KU198479","Rabies lyssavirus",11926,"GenBank","Vulpes vulpes","2014",Canada,
+"1911","EU311738","Rabies lyssavirus",11925,"GenBank","Procyon lotor","1999",Canada,
+"1912","KX148242","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1994",Cameroon,
+"1913","KX148243","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1987",Cameroon,
+"1914","KX148249","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1998",Cambodia,
+"1915","KX148250","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1999",Cambodia,
+"1916","KX148251","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1998",Cambodia,
+"1917","KX148252","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1999",Cambodia,
+"1918","KX148253","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1998",Cambodia,
+"1919","KX148230","Rabies lyssavirus",11803,"GenBank","Canis lupus familiaris","1995",Burkina Faso,
+"1920","KX148234","Rabies lyssavirus",11801,"GenBank","Canis lupus familiaris","1986",Burkina Faso,
+"1921","AB810256","Rabies lyssavirus",11856,"GenBank","Sapajus apella","",Brazil,Mato Grosso
+"1922","MK920923","Rabies lyssavirus",11861,"GenBank","Potos flavus","2010",Brazil,
+"1923","KX148109","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","1986",Brazil,
+"1924","KX148214","Rabies lyssavirus",11803,"GenBank","Canis lupus familiaris","1995",Brazil,
+"1925","KX148215","Rabies lyssavirus",11803,"GenBank","Canis lupus familiaris","1995",Brazil,
+"1926","KX148216","Rabies lyssavirus",11802,"GenBank","Canis lupus familiaris","1986",Brazil,
+"1927","KX148217","Rabies lyssavirus",11804,"GenBank","Canis lupus familiaris","1986",Brazil,
+"1928","KM594023","Rabies lyssavirus",11878,"GenBank","Callithrix jacchus","2008",Brazil,
+"1929","KM594024","Rabies lyssavirus",11879,"GenBank","Callithrix jacchus","2012",Brazil,
+"1930","KM594025","Rabies lyssavirus",11878,"GenBank","Callithrix jacchus","2007",Brazil,
+"1931","KM594026","Rabies lyssavirus",11881,"GenBank","Eptesicus furinalis","2009",Brazil,
+"1932","KM594027","Rabies lyssavirus",11881,"GenBank","Eptesicus furinalis","2010",Brazil,
+"1933","KM594028","Rabies lyssavirus",11881,"GenBank","Eptesicus furinalis","2010",Brazil,
+"1934","KM594029","Rabies lyssavirus",11882,"GenBank","Eptesicus furinalis","2006",Brazil,
+"1935","KM594030","Rabies lyssavirus",11880,"GenBank","Myotis nigricans","2010",Brazil,
+"1936","KM594031","Rabies lyssavirus",11879,"GenBank","Myotis nigricans","2010",Brazil,
+"1937","KM594032","Rabies lyssavirus",11880,"GenBank","Myotis nigricans","2010",Brazil,
+"1938","KM594033","Rabies lyssavirus",11883,"GenBank","Tadarida brasiliensis","2010",Brazil,
+"1939","KM594034","Rabies lyssavirus",11883,"GenBank","Nyctinomops laticaudatus","2010",Brazil,
+"1940","KM594035","Rabies lyssavirus",11883,"GenBank","Nyctinomops laticaudatus","2010",Brazil,
+"1941","KM594036","Rabies lyssavirus",11883,"GenBank","Nyctinomops laticaudatus","2010",Brazil,
+"1942","KM594037","Rabies lyssavirus",11879,"GenBank","Tadarida brasiliensis","2009",Brazil,
+"1943","KM594038","Rabies lyssavirus",11879,"GenBank","Tadarida brasiliensis","2010",Brazil,
+"1944","KM594039","Rabies lyssavirus",11881,"GenBank","Cerdocyon thous","2009",Brazil,
+"1945","KM594040","Rabies lyssavirus",11879,"GenBank","Desmodus rotundus","2013",Brazil,
+"1946","KM594041","Rabies lyssavirus",11879,"GenBank","Desmodus rotundus","2013",Brazil,
+"1947","KM594042","Rabies lyssavirus",11879,"GenBank","Desmodus rotundus","2013",Brazil,
+"1948","KM594043","Rabies lyssavirus",11881,"GenBank","Bos taurus","2012",Brazil,
+"1949","AB608731","Rabies lyssavirus",11924,"GenBank","Dasypterus ega","",Brazil,
+"1950","AB517659","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","",Brazil,
+"1951","AB517660","Rabies lyssavirus",11925,"GenBank","Canidae","",Brazil,
+"1952","AB519641","Rabies lyssavirus",11922,"GenBank","Artibeus lituratus","",Brazil,
+"1953","AB519642","Rabies lyssavirus",11923,"GenBank","Desmodus rotundus","",Brazil,
+"1954","AB362483","Rabies lyssavirus",11924,"GenBank","Dusicyon","",Brazil,
+"1955","KX148218","Rabies lyssavirus",11800,"GenBank","Felis silvestris","2009",Botswana,
+"1956","KX148219","Rabies lyssavirus",11800,"GenBank","Mellivora capensis","2009",Botswana,
+"1957","KX148133","Rabies lyssavirus",11801,"GenBank","Canidae","1986",Bosnia and Herzegovina,
+"1958","KX148145","Rabies lyssavirus",11801,"GenBank","Canis","1986",Bosnia and Herzegovina,
+"1959","KX148107","Rabies lyssavirus",11923,"GenBank","Felis catus","1986",Benin,
+"1960","KX148125","Rabies lyssavirus",11801,"GenBank","Canidae","1994",Belgium,
+"1961","AB699220","Rabies lyssavirus",11928,"GenBank","Capra hircus","2010",Bangladesh, Narayanganj
+"1962","MG099711","Rabies lyssavirus",11928,"GenBank","","2016",Bangladesh,
+"1963","LN879480","Rabies lyssavirus",11923,"GenBank","Canis lupus familiaris","2002",Azerbaijan,
+"1964","EU886633","Rabies lyssavirus",11907,"GenBank","Vulpes vulpes","2004",Austria,
+"1965","EU886636","Rabies lyssavirus",11907,"GenBank","Vulpes vulpes","2006",Austria,
+"1966","KX148269","Rabies lyssavirus",11802,"GenBank","Tadarida brasiliensis","1997",Argentina,
+"1967","EU293116","Rabies lyssavirus",11923,"GenBank","Tadarida brasiliensis","1997",Argentina,
+"1968","KX148197","Rabies lyssavirus",11804,"GenBank","Canis lupus familiaris","2015",Algeria,
+"1969","KX148225","Rabies lyssavirus",11806,"GenBank","Canis lupus familiaris","2002",Afghanistan,
+"1970","KX148226","Rabies lyssavirus",11806,"GenBank","Canis lupus familiaris","2002",Afghanistan,
+"1971","KX148227","Rabies lyssavirus",11806,"GenBank","Canis lupus familiaris","2004",Afghanistan,
