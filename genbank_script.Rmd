@@ -138,7 +138,9 @@ ncbi <- ncbi %>%
   dplyr::filter(!is.na(ncbi$Country)) %>% 
   dplyr::filter(ncbi$Country !="")
 
-write.csv(ncbi, file = "ncbi_cleaned.csv")
+write.table(ncbi, sep = "\t",file = "ncbi_cleaned.tab")
+
+
 
   
 ```
